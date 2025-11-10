@@ -1272,7 +1272,7 @@
 			"type": "Legendary Creature — Human Survivor",
 			"collector_number": "232",
 			"back": {
-				"name": "",
+				"name": "Wereform",
 				"type": "",
 				"image_uris": {
 					"en": "https://peixedovento.github.io/sets/DTS-files/img/199_back.png"
@@ -1760,36 +1760,6 @@
 				"en": "https://peixedovento.github.io/sets/DTS-files/img/259_front.png"
 			}
 		},
-		{
-			"name": "UM01 — Woodie, Weremoose",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Legendary Creature — Wereform Survivor",
-			"collector_number": "235",
-			"image_uris": {
-				"en": "https://peixedovento.github.io/sets/DTS-files/img/260.png"
-			}
-		},
-		{
-			"name": "UM01 — Woodie, Werebeaver",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Legendary Creature — Wereform Survivor",
-			"collector_number": "233",
-			"image_uris": {
-				"en": "https://peixedovento.github.io/sets/DTS-files/img/261.png"
-			}
-		},
-		{
-			"name": "UM01 — Woodie, Weregoose",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Legendary Creature — Wereform Survivor",
-			"collector_number": "234",
-			"image_uris": {
-				"en": "https://peixedovento.github.io/sets/DTS-files/img/262.png"
-			}
-		}
 	]
 
 [rare(1)]
@@ -1851,17 +1821,7 @@
 	4 UA03 — Mandrake Soup
 	4 UA05 — Volt Goat Chaud-Froid
 	4 UA04 — Monster Lasagna
-	4 UL05 — Deciduous Forest
-	4 UL04 — Grassy Plains
-	4 UL06 — Pond Fields
-	4 UL02 — Lunar Grotto
 	4 UX01 — Krampus
-	4 UL01 — Lunar Island
-	4 UL03 — Oasis Desert
-	4 UL09 — Fungal Forest
-	4 UL07 — Ancient Ruins
-	4 UL10 — Moon Quay
-	4 UL08 — Monstrous Marsh
 [common(7)]
 	8 CW01 — Gestalt
 	8 CW02 — Wild Beefalo
@@ -1964,9 +1924,6 @@
 	8 CA04 — Meatballs
 	8 CA05 — Meaty Stew
 	8 CL01 — Temporary Outpost
-	8 UM01 — Woodie, Weremoose
-	8 UM01 — Woodie, Werebeaver
-	8 UM01 — Woodie, Weregoose
 [foil(1)]
 	12 CW01 — Gestalt
 	12 CW02 — Wild Beefalo
@@ -2137,125 +2094,11 @@
 	6 UL10 — Moon Quay
 	6 UL08 — Monstrous Marsh
 	2 RL02 — The Atrium
-	12 UM01 — Woodie, Weremoose
-	12 UM01 — Woodie, Werebeaver
-	12 UM01 — Woodie, Weregoose
 [wildcard(1)]
-	6 CW01 — Gestalt
-	6 CW02 — Wild Beefalo
-	6 CW03 — Hoarding Catcoon
-	6 CW04 — Moon Moth
-	6 CW05 — No-Eyed Deer
-	6 CW06 — Dust Moth
-	6 CW13 — Ghastly Downtime
-	6 CW08 — Bright-Eyed Frog
-	6 CW09 — Ancient Sentrypede
-	6 CW10 — Moonblind Crows
-	6 CW11 — Beefalo Calf
-	6 CW12 — Carrat
-	6 CW07 — Pipspooks
-	6 CW14 — Clear Minded Cadenza
-	6 CW15 — Allied Under Pressure
-	6 CW16 — Put to Sleep
-	6 CW17 — Well-Deserved Rest
-	6 CW18 — Lost on Lunar Island
-	6 CW19 — Enlighten
-	6 CU01 — Prototype Recipe
-	6 CU02 — Rockjaw
-	6 CU03 — Skittersquid
-	6 CU04 — Frog Rain
-	6 CU05 — Cookie Cutter
-	6 CU06 — Forbidden Knowledge
-	6 CU07 — Pengull
-	6 CU08 — Blue Hound
-	6 CU09 — Crab Guard
-	6 CU10 — Thieving Marotter
-	6 CU11 — Anenemies
-	6 CU12 — Sea Weed
-	6 CU13 — Gnarwail
-	6 CU14 — Moon Quay's Curse
-	6 CU15 — Kite
-	6 CU16 — Immediate Priorities
-	6 CU17 — Lost and Hungry
-	6 CU18 — Freezing Temperatures
-	6 CU19 — Pick Up the Pieces
-	6 CB01 — Crawling Horror
-	15 UB01 — Terrorbeak
-	6 CB03 — Tallbird
-	6 CB04 — Swamp Tentacles
-	6 CB05 — Cave Batilisk
-	6 CB06 — Marsh Mosquito
-	6 CB07 — Cave Spider
-	6 CB08 — Cemetery Ghost
-	6 CB09 — Mean Merm
-	6 CB10 — Loyal Merm Guard
-	6 CB11 — Cruel-Hearted Fun
-	6 CB12 — Meat Effigy
-	6 CB13 — United in Death
-	6 CB14 — Command in Shadow
-	6 CB16 — Manipulate Shadows
-	6 CB15 — Unethical Sources
-	6 CB17 — Grave Robbery
-	6 CB18 — Night Hands
-	6 CB19 — Inhabiting Darkness
-	6 CR01 — Killer Bee
-	6 CR02 — Vicious Varg
-	6 CR03 — Red Hound
-	15 UR01 — Splumonkey
-	6 CR05 — Desert Buzzard
-	6 CR06 — Moleworm
-	6 CR07 — Rock Lobster
-	6 CR08 — Enraged Mosling
-	6 CR09 — Moon Quay Raiders
-	6 CR10 — Spider Warrior
-	6 CR11 — Fireflies
-	6 CR12 — Burning Frenzy
-	6 CR13 — Enrage
-	6 CR14 — Overheat
-	6 CR15 — Thrill of Possibility
-	6 CR16 — Willow's Lighter
-	6 CR17 — Bel Canto of Courage
-	6 CR18 — Scraping By
-	15 UR04 — Focus on Fighting
-	6 CG01 — Lunch Break
-	6 CG02 — Explore
-	6 CG03 — Savannah Rabbit
-	6 CG04 — Treeguard
-	15 UG02 — Tallbird Egg
-	6 CG14 — Grow a Beard
-	6 CG07 — Lureplant
-	6 CG08 — Koalefant
-	6 CG09 — Mush Gnome
-	6 CG10 — Fruit Fly Swarm
-	6 CG11 — Mandrake
-	6 CG12 — Grass Gator
-	6 CG13 — Briar Wolf
-	6 CG06 — Hungry Gobbler
-	6 CG15 — Trail Mix
-	15 UG04 — Overrun
-	6 CG17 — Show of Strength
-	6 CG18 — Full Bloom
-	6 CG19 — Fresh Resources
-	15 UW01 — Greater Gestalt
-	15 UW02 — Charged Elding Spear
 	15 UW03 — Wes, Unfortunate Mime
 	15 UW04 — Wanda, Time Witch
-	15 UU01 — Science Machine
-	15 UU02 — Pearl, Crabby Hermit
 	15 UU03 — Wilson, Gentleman Scientist
-	15 UU04 — Bio Scanalyzer
-	6 CB02 — Constant Spider
-	15 UB02 — Nightmare Light
-	15 UB03 — Endure Horror
-	15 UB04 — Stuff of Nightmares
-	6 CR04 — Lavae
-	15 UR02 — Saladmander
 	15 UR03 — Willow, the Firestarter
-	6 CR19 — Fight the Forge
-	15 UG01 — Bunnyman
-	6 CG05 — Grass Gekko
-	15 UG03 — Peaceful Pig
-	6 CG16 — Massive Might
 	7 RW01 — The Ancient Guardian
 	7 RU01 — Crab King, Watery Grave
 	7 RB01 — The Shadow Pieces
@@ -2263,11 +2106,9 @@
 	7 RG01 — Bee Queen, Buzzing Hive
 	15 UM01 — Winona, Handywoman
 	7 RM01 — Deerclops, Winter's Call
-	15 UM01 — Hound Wave
 	15 UM01 — Woodie, Cursed Lumberjack
 	15 UM01 — Warly, Camp Chef
 	15 UM01 — Wendy, the Bereaved
-	15 UM01 — Volt Goat
 	15 UM01 — Webber, the Indigestible
 	15 UM01 — Wigfrid, Battle Performer
 	7 RM02 — Wormwood, the Lonesome
@@ -2281,23 +2122,12 @@
 	7 RM01 — Campfire Story
 	7 RM01 — Antlion, Summer Rumbler
 	15 UM01 — Wurt, Friendly Merm
-	6 CA01 — Worm Hole
-	6 CA02 — Crock Pot
-	6 CA03 — Ham Bat
-	6 CA04 — Meatballs
-	6 CA05 — Meaty Stew
-	15 UA01 — Grim Galette
-	15 UA02 — Steamed Twigs
-	15 UA03 — Mandrake Soup
 	7 RL01 — The Florid Postern
-	15 UA05 — Volt Goat Chaud-Froid
-	6 CL01 — Temporary Outpost
 	15 UA04 — Monster Lasagna
 	15 UL05 — Deciduous Forest
 	15 UL04 — Grassy Plains
 	15 UL06 — Pond Fields
 	15 UL02 — Lunar Grotto
-	15 UX01 — Krampus
 	4 MX02 — Lunar Siphonator
 	4 MX03 — Klaus, Gift Hoarder
 	7 RM01 — Moose/Goose, Spring Mother
@@ -2310,6 +2140,3 @@
 	15 UL10 — Moon Quay
 	15 UL08 — Monstrous Marsh
 	7 RL02 — The Atrium
-	6 UM01 — Woodie, Weremoose
-	6 UM01 — Woodie, Werebeaver
-	6 UM01 — Woodie, Weregoose
