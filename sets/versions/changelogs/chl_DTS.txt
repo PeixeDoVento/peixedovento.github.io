@@ -1,4 +1,354 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+CW01 — Gestalt
+
+CW02 — Wild Beefalo
+
+CW03 — Hoarding Catcoon
+
+CW04 — Moon Moth
+
+CW05 — No-Eyed Deer
+
+CW06 — Dust Moth
+
+CW13 — Ghastly Downtime
+
+CW08 — Bright-Eyed Frog
+
+CW09 — Ancient Sentrypede
+
+CW10 — Moonblind Crows
+
+CW11 — Beefalo Calf
+
+CW12 — Carrat
+
+CW07 — Pipspooks
+
+CW14 — Clear Minded Cadenza
+
+CW15 — Allied Under Pressure
+
+CW16 — Put to Sleep
+
+CW17 — Well-Deserved Rest
+
+CW18 — Lost on Lunar Island
+
+CW19 — Enlighten
+
+CU01 — Prototype Recipe
+
+CU02 — Rockjaw
+
+CU03 — Skittersquid
+
+CU04 — Frog Rain
+
+CU05 — Cookie Cutter
+
+CU06 — Forbidden Knowledge
+
+CU07 — Pengull
+
+CU08 — Blue Hound
+
+CU09 — Crab Guard
+
+CU10 — Thieving Marotter
+
+CU11 — Anenemies
+
+CU12 — Sea Weed
+
+CU13 — Gnarwail
+
+CU14 — Moon Quay's Curse
+
+CU15 — Kite
+
+CU16 — Immediate Priorities
+
+CU17 — Lost and Hungry
+
+CU18 — Freezing Temperatures
+
+CU19 — Pick Up the Pieces
+
+CB01 — Crawling Horror
+
+UB01 — Terrorbeak
+
+CB03 — Tallbird
+
+CB04 — Swamp Tentacles
+
+CB05 — Cave Batilisk
+
+CB06 — Marsh Mosquito
+
+CB07 — Cave Spider
+
+CB08 — Cemetery Ghost
+
+CB09 — Mean Merm
+
+CB10 — Loyal Merm Guard
+
+CB11 — Cruel-Hearted Fun
+
+CB12 — Meat Effigy
+
+CB13 — United in Death
+
+CB14 — Command in Shadow
+
+CB16 — Manipulate Shadows
+
+CB15 — Unethical Sources
+
+CB17 — Grave Robbery
+
+CB18 — Night Hands
+
+CB19 — Inhabiting Darkness
+
+CR01 — Killer Bee
+
+CR02 — Vicious Varg
+
+CR03 — Red Hound
+
+UR01 — Splumonkey
+
+CR05 — Desert Buzzard
+
+CR06 — Moleworm
+
+CR07 — Rock Lobster
+
+CR08 — Enraged Mosling
+
+CR09 — Moon Quay Raiders
+
+CR10 — Spider Warrior
+
+CR11 — Fireflies
+
+CR12 — Burning Frenzy
+
+CR13 — Enrage
+
+CR14 — Overheat
+
+CR15 — Thrill of Possibility
+
+CR16 — Willow's Lighter
+
+CR17 — Bel Canto of Courage
+
+CR18 — Scraping By
+
+UR04 — Focus on Fighting
+
+CG01 — Lunch Break
+
+CG02 — Explore
+
+CG03 — Savannah Rabbit
+
+CG04 — Treeguard
+
+UG02 — Tallbird Egg
+
+CG14 — Grow a Beard
+
+CG07 — Lureplant
+
+CG08 — Koalefant
+
+CG09 — Mush Gnome
+
+CG10 — Fruit Fly Swarm
+
+CG11 — Mandrake
+
+CG12 — Grass Gator
+
+CG13 — Briar Wolf
+
+CG06 — Hungry Gobbler
+
+CG15 — Trail Mix
+
+UG04 — Overrun
+
+CG17 — Show of Strength
+
+CG18 — Full Bloom
+
+CG19 — Fresh Resources
+
+UW01 — Greater Gestalt
+
+UW02 — Charged Elding Spear
+
+UW03 — Wes, Unfortunate Mime
+
+UW04 — Wanda, Time Witch
+
+UU01 — Science Machine
+
+UU02 — Pearl, Crabby Hermit
+
+UU03 — Wilson, Gentleman Scientist
+
+UU04 — Bio Scanalyzer
+
+CB02 — Constant Spider
+
+UB02 — Nightmare Light
+
+UB03 — Endure Horror
+
+UB04 — Stuff of Nightmares
+
+CR04 — Lavae
+
+UR02 — Saladmander
+
+UR03 — Willow, the Firestarter
+
+CR19 — Fight the Forge
+
+UG01 — Bunnyman
+
+CG05 — Grass Gekko
+
+UG03 — Peaceful Pig
+
+CG16 — Massive Might
+
+RW01 — The Ancient Guardian
+
+RU01 — Crab King, Watery Grave
+
+RB01 — The Shadow Pieces
+
+RR01 — Dragonfly, Magma Matron
+
+RG01 — Bee Queen, Buzzing Hive
+
+UM01 — Winona, Handywoman
+
+RM01 — Deerclops, Winter's Call
+
+UM01 — Hound Wave
+
+UM01 — Woodie, Cursed Lumberjack
+
+UM01 — Warly, Camp Chef
+
+UM01 — Wendy, the Bereaved
+
+UM01 — Volt Goat
+
+UM01 — Webber, the Indigestible
+
+UM01 — Wigfrid, Battle Performer
+
+RM02 — Wormwood, the Lonesome
+
+RM01 — Wickerbottom, the Librarian
+
+UM01 — Maxwell, Showmaster
+
+RM01 — Battlemaster Pugnaz
+
+RM01 — Bearger, Autumn Hunger
+
+RM01 — Mumsy and Billy, Kind Goats
+
+RM01 — Abigail, Persistent Kin
+
+RM01 — Overcharged
+
+RM01 — Campfire Story
+
+RM01 — Antlion, Summer Rumbler
+
+UM01 — Wurt, Friendly Merm
+
+CA01 — Worm Hole
+
+CA02 — Crock Pot
+
+CA03 — Ham Bat
+
+CA04 — Meatballs
+
+CA05 — Meaty Stew
+
+UA01 — Grim Galette
+
+UA02 — Steamed Twigs
+
+UA03 — Mandrake Soup
+
+RL01 — The Florid Postern
+
+UA05 — Volt Goat Chaud-Froid
+
+CL01 — Temporary Outpost
+
+UA04 — Monster Lasagna
+
+UL05 — Deciduous Forest
+
+UL04 — Grassy Plains
+
+UL06 — Pond Fields
+
+UL02 — Lunar Grotto
+
+UX01 — Krampus
+
+MX02 — Lunar Siphonator
+
+MX03 — Klaus, Gift Hoarder
+
+RM01 — Moose/Goose, Spring Mother
+
+MX01 — Reanimated Skeleton
+
+RM02 — Chester, Mobile Storage
+
+UL01 — Lunar Island
+
+UL03 — Oasis Desert
+
+UL09 — Fungal Forest
+
+UL07 — Ancient Ruins
+
+UL10 — Moon Quay
+
+UL08 — Monstrous Marsh
+
+RL02 — The Atrium
+
+UM01 — Woodie, Weremoose
+
+UM01 — Woodie, Werebeaver
+
+UM01 — Woodie, Weregoose
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
