@@ -1,0 +1,1419 @@
+﻿[
+    {
+        "card_name": "RW01 \u2014 The Ancient Guardian",
+        "number": 36,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "151"
+    },
+    {
+        "card_name": "RU01 \u2014 Crab King, Watery Grave",
+        "number": 75,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "158"
+    },
+    {
+        "card_name": "RB01 \u2014 The Shadow Pieces",
+        "number": 114,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "165"
+    },
+    {
+        "card_name": "RR01 \u2014 Dragonfly, Magma Matron",
+        "number": 153,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "172"
+    },
+    {
+        "card_name": "RG01 \u2014 Bee Queen, Buzzing Hive",
+        "number": 192,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "179"
+    },
+    {
+        "card_name": "UW01 \u2014 Greater Gestalt",
+        "number": 43,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "96"
+    },
+    {
+        "card_name": "UU01 \u2014 Science Machine",
+        "number": 82,
+        "shape": "transform double faced",
+        "set": "DTS",
+        "position": "107"
+    },
+    {
+        "card_name": "UB01 \u2014 Terrorbeak",
+        "number": 121,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "40"
+    },
+    {
+        "card_name": "UR01 \u2014 Splumonkey",
+        "number": 160,
+        "shape": "transform double faced",
+        "set": "DTS",
+        "position": "61"
+    },
+    {
+        "card_name": "UG01 \u2014 Bunnyman",
+        "number": 199,
+        "shape": "transform double faced",
+        "set": "DTS",
+        "position": "140"
+    },
+    {
+        "card_name": "UW02 \u2014 Charged Elding Spear",
+        "number": 44,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "97"
+    },
+    {
+        "card_name": "UU02 \u2014 Pearl, Crabby Hermit",
+        "number": 83,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "108"
+    },
+    {
+        "card_name": "UB02 \u2014 Nightmare Light",
+        "number": 122,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "119"
+    },
+    {
+        "card_name": "UR02 \u2014 Saladmander",
+        "number": 161,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "130"
+    },
+    {
+        "card_name": "UG02 \u2014 Tallbird Egg",
+        "number": 200,
+        "shape": "transform double faced",
+        "set": "DTS",
+        "position": "81"
+    },
+    {
+        "card_name": "UW03 \u2014 Wes, Unfortunate Mime",
+        "number": 45,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "98"
+    },
+    {
+        "card_name": "UU03 \u2014 Wilson, Gentleman Scientist",
+        "number": 84,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "109"
+    },
+    {
+        "card_name": "UB03 \u2014 Endure Horror",
+        "number": 123,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "120"
+    },
+    {
+        "card_name": "UR03 \u2014 Willow, the Firestarter",
+        "number": 162,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "131"
+    },
+    {
+        "card_name": "UG03 \u2014 Peaceful Pig",
+        "number": 201,
+        "shape": "transform double faced",
+        "set": "DTS",
+        "position": "142"
+    },
+    {
+        "card_name": "UW04 \u2014 Wanda, Time Witch",
+        "number": 46,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "99"
+    },
+    {
+        "card_name": "UU04 \u2014 Bio Scanalyzer",
+        "number": 85,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "110"
+    },
+    {
+        "card_name": "UB04 \u2014 Stuff of Nightmares",
+        "number": 124,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "121"
+    },
+    {
+        "card_name": "UR04 \u2014 Focus on Fighting",
+        "number": 163,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "76"
+    },
+    {
+        "card_name": "UG04 \u2014 Overrun",
+        "number": 202,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "92"
+    },
+    {
+        "card_name": "CW01 \u2014 Gestalt",
+        "number": 15,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "1"
+    },
+    {
+        "card_name": "CU01 \u2014 Prototype Recipe",
+        "number": 54,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "20"
+    },
+    {
+        "card_name": "CB01 \u2014 Crawling Horror",
+        "number": 93,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "39"
+    },
+    {
+        "card_name": "CR01 \u2014 Killer Bee",
+        "number": 132,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "58"
+    },
+    {
+        "card_name": "CG01 \u2014 Lunch Break",
+        "number": 171,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "77"
+    },
+    {
+        "card_name": "CW02 \u2014 Wild Beefalo",
+        "number": 16,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "2"
+    },
+    {
+        "card_name": "CU02 \u2014 Rockjaw",
+        "number": 55,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "21"
+    },
+    {
+        "card_name": "CB02 \u2014 Constant Spider",
+        "number": 94,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "118"
+    },
+    {
+        "card_name": "CR02 \u2014 Vicious Varg",
+        "number": 133,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "59"
+    },
+    {
+        "card_name": "CG02 \u2014 Explore",
+        "number": 172,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "78"
+    },
+    {
+        "card_name": "CW03 \u2014 Hoarding Catcoon",
+        "number": 17,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "3"
+    },
+    {
+        "card_name": "CU03 \u2014 Skittersquid",
+        "number": 56,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "22"
+    },
+    {
+        "card_name": "CB03 \u2014 Tallbird",
+        "number": 95,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "41"
+    },
+    {
+        "card_name": "CR03 \u2014 Red Hound",
+        "number": 134,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "60"
+    },
+    {
+        "card_name": "CG03 \u2014 Savannah Rabbit",
+        "number": 173,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "79"
+    },
+    {
+        "card_name": "CW04 \u2014 Moon Moth",
+        "number": 18,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "4"
+    },
+    {
+        "card_name": "CU04 \u2014 Frog Rain",
+        "number": 57,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "23"
+    },
+    {
+        "card_name": "CB04 \u2014 Swamp Tentacles",
+        "number": 96,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "42"
+    },
+    {
+        "card_name": "CR04 \u2014 Lavae",
+        "number": 135,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "129"
+    },
+    {
+        "card_name": "CG04 \u2014 Treeguard",
+        "number": 174,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "80"
+    },
+    {
+        "card_name": "CW05 \u2014 No-Eyed Deer",
+        "number": 19,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "5"
+    },
+    {
+        "card_name": "CU05 \u2014 Cookie Cutter",
+        "number": 58,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "24"
+    },
+    {
+        "card_name": "CB05 \u2014 Cave Batilisk",
+        "number": 97,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "43"
+    },
+    {
+        "card_name": "CR05 \u2014 Desert Buzzard",
+        "number": 136,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "62"
+    },
+    {
+        "card_name": "CG05 \u2014 Grass Gekko",
+        "number": 175,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "141"
+    },
+    {
+        "card_name": "CW06 \u2014 Dust Moth",
+        "number": 20,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "6"
+    },
+    {
+        "card_name": "CU06 \u2014 Forbidden Knowledge",
+        "number": 59,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "25"
+    },
+    {
+        "card_name": "CB06 \u2014 Marsh Mosquito",
+        "number": 98,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "44"
+    },
+    {
+        "card_name": "CR06 \u2014 Moleworm",
+        "number": 137,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "63"
+    },
+    {
+        "card_name": "CG06 \u2014 Hungry Gobbler",
+        "number": 176,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "90"
+    },
+    {
+        "card_name": "CW07 \u2014 Pipspooks",
+        "number": 21,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "13"
+    },
+    {
+        "card_name": "CU07 \u2014 Pengull",
+        "number": 60,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "26"
+    },
+    {
+        "card_name": "CB07 \u2014 Cave Spider",
+        "number": 99,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "45"
+    },
+    {
+        "card_name": "CR07 \u2014 Rock Lobster",
+        "number": 138,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "64"
+    },
+    {
+        "card_name": "CG07 \u2014 Lureplant",
+        "number": 177,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "83"
+    },
+    {
+        "card_name": "CW08 \u2014 Bright-Eyed Frog",
+        "number": 22,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "8"
+    },
+    {
+        "card_name": "CU08 \u2014 Blue Hound",
+        "number": 61,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "27"
+    },
+    {
+        "card_name": "CB08 \u2014 Cemetery Ghost",
+        "number": 100,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "46"
+    },
+    {
+        "card_name": "CR08 \u2014 Enraged Mosling",
+        "number": 139,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "65"
+    },
+    {
+        "card_name": "CG08 \u2014 Koalefant",
+        "number": 178,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "84"
+    },
+    {
+        "card_name": "CW09 \u2014 Ancient Sentrypede",
+        "number": 23,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "9"
+    },
+    {
+        "card_name": "CU09 \u2014 Crab Guard",
+        "number": 62,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "28"
+    },
+    {
+        "card_name": "CB09 \u2014 Mean Merm",
+        "number": 101,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "47"
+    },
+    {
+        "card_name": "CR09 \u2014 Moon Quay Raiders",
+        "number": 140,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "66"
+    },
+    {
+        "card_name": "CG09 \u2014 Mush Gnome",
+        "number": 179,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "85"
+    },
+    {
+        "card_name": "CW10 \u2014 Moonblind Crows",
+        "number": 24,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "10"
+    },
+    {
+        "card_name": "CU10 \u2014 Thieving Marotter",
+        "number": 63,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "29"
+    },
+    {
+        "card_name": "CB10 \u2014 Loyal Merm Guard",
+        "number": 102,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "48"
+    },
+    {
+        "card_name": "CR10 \u2014 Spider Warrior",
+        "number": 141,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "67"
+    },
+    {
+        "card_name": "CG10 \u2014 Fruit Fly Swarm",
+        "number": 180,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "86"
+    },
+    {
+        "card_name": "CW11 \u2014 Beefalo Calf",
+        "number": 25,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "11"
+    },
+    {
+        "card_name": "CU11 \u2014 Anenemies",
+        "number": 64,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "30"
+    },
+    {
+        "card_name": "CB11 \u2014 Cruel-Hearted Fun",
+        "number": 103,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "49"
+    },
+    {
+        "card_name": "CR11 \u2014 Fireflies",
+        "number": 142,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "68"
+    },
+    {
+        "card_name": "CG11 \u2014 Mandrake",
+        "number": 181,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "87"
+    },
+    {
+        "card_name": "CW12 \u2014 Carrat",
+        "number": 26,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "12"
+    },
+    {
+        "card_name": "CU12 \u2014 Sea Weed",
+        "number": 65,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "31"
+    },
+    {
+        "card_name": "CB12 \u2014 Meat Effigy",
+        "number": 104,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "50"
+    },
+    {
+        "card_name": "CR12 \u2014 Burning Frenzy",
+        "number": 143,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "69"
+    },
+    {
+        "card_name": "CG12 \u2014 Grass Gator",
+        "number": 182,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "88"
+    },
+    {
+        "card_name": "CW13 \u2014 Ghastly Downtime",
+        "number": 27,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "7"
+    },
+    {
+        "card_name": "CU13 \u2014 Gnarwail",
+        "number": 66,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "32"
+    },
+    {
+        "card_name": "CB13 \u2014 United in Death",
+        "number": 105,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "51"
+    },
+    {
+        "card_name": "CR13 \u2014 Enrage",
+        "number": 144,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "70"
+    },
+    {
+        "card_name": "CG13 \u2014 Briar Wolf",
+        "number": 183,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "89"
+    },
+    {
+        "card_name": "CW14 \u2014 Clear Minded Cadenza",
+        "number": 28,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "14"
+    },
+    {
+        "card_name": "CU14 \u2014 Moon Quay's Curse",
+        "number": 67,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "33"
+    },
+    {
+        "card_name": "CB14 \u2014 Command in Shadow",
+        "number": 106,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "52"
+    },
+    {
+        "card_name": "CR14 \u2014 Overheat",
+        "number": 145,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "71"
+    },
+    {
+        "card_name": "CG14 \u2014 Grow a Beard",
+        "number": 184,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "82"
+    },
+    {
+        "card_name": "CW15 \u2014 Allied Under Pressure",
+        "number": 29,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "15"
+    },
+    {
+        "card_name": "CU15 \u2014 Kite",
+        "number": 68,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "34"
+    },
+    {
+        "card_name": "CB15 \u2014 Unethical Sources",
+        "number": 107,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "54"
+    },
+    {
+        "card_name": "CR15 \u2014 Thrill of Possibility",
+        "number": 146,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "72"
+    },
+    {
+        "card_name": "CG15 \u2014 Trail Mix",
+        "number": 185,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "91"
+    },
+    {
+        "card_name": "CW16 \u2014 Put to Sleep",
+        "number": 30,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "16"
+    },
+    {
+        "card_name": "CU16 \u2014 Immediate Priorities",
+        "number": 69,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "35"
+    },
+    {
+        "card_name": "CB16 \u2014 Manipulate Shadows",
+        "number": 108,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "53"
+    },
+    {
+        "card_name": "CR16 \u2014 Willow's Lighter",
+        "number": 147,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "73"
+    },
+    {
+        "card_name": "CG16 \u2014 Massive Might",
+        "number": 186,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "143"
+    },
+    {
+        "card_name": "CW17 \u2014 Well-Deserved Rest",
+        "number": 31,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "17"
+    },
+    {
+        "card_name": "CU17 \u2014 Lost and Hungry",
+        "number": 70,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "36"
+    },
+    {
+        "card_name": "CB17 \u2014 Grave Robbery",
+        "number": 109,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "55"
+    },
+    {
+        "card_name": "CR17 \u2014 Bel Canto of Courage",
+        "number": 148,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "74"
+    },
+    {
+        "card_name": "CG17 \u2014 Show of Strength",
+        "number": 187,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "93"
+    },
+    {
+        "card_name": "CW18 \u2014 Lost on Lunar Island",
+        "number": 32,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "18"
+    },
+    {
+        "card_name": "CU18 \u2014 Freezing Temperatures",
+        "number": 71,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "37"
+    },
+    {
+        "card_name": "CB18 \u2014 Night Hands",
+        "number": 110,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "56"
+    },
+    {
+        "card_name": "CR18 \u2014 Scraping By",
+        "number": 149,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "75"
+    },
+    {
+        "card_name": "CG18 \u2014 Full Bloom",
+        "number": 188,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "94"
+    },
+    {
+        "card_name": "CW19 \u2014 Enlighten",
+        "number": 33,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "19"
+    },
+    {
+        "card_name": "CU19 \u2014 Pick Up the Pieces",
+        "number": 72,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "38"
+    },
+    {
+        "card_name": "CB19 \u2014 Inhabiting Darkness",
+        "number": 111,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "57"
+    },
+    {
+        "card_name": "CR19 \u2014 Fight the Forge",
+        "number": 150,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "132"
+    },
+    {
+        "card_name": "CG19 \u2014 Fresh Resources",
+        "number": 189,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "95"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "MX02 \u2014 Lunar Siphonator",
+        "number": 210,
+        "shape": "transform double faced",
+        "set": "DTS",
+        "position": "245"
+    },
+    {
+        "card_name": "RM01 \u2014 Deerclops, Winter's Call",
+        "number": 217,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "197"
+    },
+    {
+        "card_name": "RM01 \u2014 Battlemaster Pugnaz",
+        "number": 214,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "208"
+    },
+    {
+        "card_name": "RM01 \u2014 Bearger, Autumn Hunger",
+        "number": 215,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "209"
+    },
+    {
+        "card_name": "RM01 \u2014 Mumsy and Billy, Kind Goats",
+        "number": 219,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "210"
+    },
+    {
+        "card_name": "RM01 \u2014 Wickerbottom, the Librarian",
+        "number": 221,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "206"
+    },
+    {
+        "card_name": "UM01 \u2014 Maxwell, Showmaster",
+        "number": 225,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "207"
+    },
+    {
+        "card_name": "UM01 \u2014 Hound Wave",
+        "number": 224,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "198"
+    },
+    {
+        "card_name": "UM01 \u2014 Woodie, Cursed Lumberjack",
+        "number": 232,
+        "shape": "transform double faced",
+        "set": "DTS",
+        "position": "199"
+    },
+    {
+        "card_name": "RM02 \u2014 Chester, Mobile Storage",
+        "number": 222,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "252"
+    },
+    {
+        "card_name": "UM01 \u2014 Winona, Handywoman",
+        "number": 231,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "196"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UX01 \u2014 Krampus",
+        "number": 237,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "237"
+    },
+    {
+        "card_name": "UM01 \u2014 Woodie, Werebeaver",
+        "number": 233,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "261"
+    },
+    {
+        "card_name": "UM01 \u2014 Warly, Camp Chef",
+        "number": 227,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "200"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM01 \u2014 Woodie, Weregoose",
+        "number": 234,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "262"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM01 \u2014 Woodie, Weremoose",
+        "number": 235,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "260"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RM01 \u2014 Abigail, Persistent Kin",
+        "number": 212,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "211"
+    },
+    {
+        "card_name": "RM01 \u2014 Overcharged",
+        "number": 220,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "212"
+    },
+    {
+        "card_name": "RM01 \u2014 Campfire Story",
+        "number": 216,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "213"
+    },
+    {
+        "card_name": "RM01 \u2014 Antlion, Summer Rumbler",
+        "number": 213,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "214"
+    },
+    {
+        "card_name": "RM01 \u2014 Moose/Goose, Spring Mother",
+        "number": 218,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "250"
+    },
+    {
+        "card_name": "UM01 \u2014 Wendy, the Bereaved",
+        "number": 229,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "201"
+    },
+    {
+        "card_name": "UM01 \u2014 Volt Goat",
+        "number": 226,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "202"
+    },
+    {
+        "card_name": "UM01 \u2014 Webber, the Indigestible",
+        "number": 228,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "203"
+    },
+    {
+        "card_name": "UM01 \u2014 Wigfrid, Battle Performer",
+        "number": 230,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "204"
+    },
+    {
+        "card_name": "RM02 \u2014 Wormwood, the Lonesome",
+        "number": 223,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "205"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM01 \u2014 Wurt, Friendly Merm",
+        "number": 236,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "215"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "MX03 \u2014 Klaus, Gift Hoarder",
+        "number": 211,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "246"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "MX01 \u2014 Reanimated Skeleton",
+        "number": 243,
+        "shape": "transform double faced",
+        "set": "DTS",
+        "position": "251"
+    },
+    {
+        "card_name": "UA01 \u2014 Grim Galette",
+        "number": 244,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "221"
+    },
+    {
+        "card_name": "UA02 \u2014 Steamed Twigs",
+        "number": 245,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "222"
+    },
+    {
+        "card_name": "UA03 \u2014 Mandrake Soup",
+        "number": 246,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "223"
+    },
+    {
+        "card_name": "UA04 \u2014 Monster Lasagna",
+        "number": 247,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "227"
+    },
+    {
+        "card_name": "UA05 \u2014 Volt Goat Chaud-Froid",
+        "number": 248,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "225"
+    },
+    {
+        "card_name": "CA01 \u2014 Worm Hole",
+        "number": 238,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "216"
+    },
+    {
+        "card_name": "CA02 \u2014 Crock Pot",
+        "number": 239,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "217"
+    },
+    {
+        "card_name": "CA03 \u2014 Ham Bat",
+        "number": 240,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "218"
+    },
+    {
+        "card_name": "CA04 \u2014 Meatballs",
+        "number": 241,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "219"
+    },
+    {
+        "card_name": "CA05 \u2014 Meaty Stew",
+        "number": 242,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "220"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "RL01 \u2014 The Florid Postern",
+        "number": 250,
+        "shape": "transform double faced",
+        "set": "DTS",
+        "position": "224"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "RL02 \u2014 The Atrium",
+        "number": 251,
+        "shape": "transform double faced",
+        "set": "DTS",
+        "position": "259"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "UL01 \u2014 Lunar Island",
+        "number": 252,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "253"
+    },
+    {
+        "card_name": "UL08 \u2014 Monstrous Marsh",
+        "number": 259,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "258"
+    },
+    {
+        "card_name": "UL07 \u2014 Ancient Ruins",
+        "number": 258,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "256"
+    },
+    {
+        "card_name": "UL05 \u2014 Deciduous Forest",
+        "number": 256,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "228"
+    },
+    {
+        "card_name": "UL04 \u2014 Grassy Plains",
+        "number": 255,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "229"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "UL02 \u2014 Lunar Grotto",
+        "number": 253,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "231"
+    },
+    {
+        "card_name": "UL10 \u2014 Moon Quay",
+        "number": 261,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "257"
+    },
+    {
+        "card_name": "UL09 \u2014 Fungal Forest",
+        "number": 260,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "255"
+    },
+    {
+        "card_name": "UL03 \u2014 Oasis Desert",
+        "number": 254,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "254"
+    },
+    {
+        "card_name": "UL06 \u2014 Pond Fields",
+        "number": 257,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "230"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "CL01 \u2014 Temporary Outpost",
+        "number": 249,
+        "shape": "normal",
+        "set": "DTS",
+        "position": "226"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
