@@ -6,7 +6,7 @@
 			"type": "Creature — Avatar ",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW01 — Gestalt.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW01 — Gestalt.png"
 			}
 		},
 		{
@@ -16,7 +16,7 @@
 			"type": "Creature — Ox ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW02 — Wild Beefalo.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW02 — Wild Beefalo.png"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 			"type": "Creature — Cat Raccoon ",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW03 — Hoarding Catcoon.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW03 — Hoarding Catcoon.png"
 			}
 		},
 		{
@@ -36,7 +36,7 @@
 			"type": "Creature — Insect ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW04 — Moon Moth.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW04 — Moon Moth.png"
 			}
 		},
 		{
@@ -46,7 +46,7 @@
 			"type": "Creature — Elk ",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW05 — No-Eyed Deer.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW05 — No-Eyed Deer.png"
 			}
 		},
 		{
@@ -56,7 +56,7 @@
 			"type": "Creature — Insect Avatar ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW06 — Dust Moth.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW06 — Dust Moth.png"
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 			"type": "Sorcery",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW13 — Ghastly Downtime.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW13 — Ghastly Downtime.png"
 			}
 		},
 		{
@@ -76,7 +76,7 @@
 			"type": "Creature — Frog Avatar ",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW08 — Bright-Eyed Frog.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW08 — Bright-Eyed Frog.png"
 			}
 		},
 		{
@@ -86,7 +86,7 @@
 			"type": "Artifact Creature — Insect ",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW09 — Ancient Sentrypede.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW09 — Ancient Sentrypede.png"
 			}
 		},
 		{
@@ -96,7 +96,7 @@
 			"type": "Creature — Bird  ",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW10 — Moonblind Crows.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW10 — Moonblind Crows.png"
 			}
 		},
 		{
@@ -106,7 +106,7 @@
 			"type": "Creature — Ox ",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW11 — Beefalo Calf.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW11 — Beefalo Calf.png"
 			}
 		},
 		{
@@ -116,7 +116,7 @@
 			"type": "Creature — Rabbit Plant ",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW12 — Carrat.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW12 — Carrat.png"
 			}
 		},
 		{
@@ -126,7 +126,7 @@
 			"type": "Creature — Spirit ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW07 — Pipspooks.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW07 — Pipspooks.png"
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 			"type": "Sorcery",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW14 — Clear Minded Cadenza.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW14 — Clear Minded Cadenza.png"
 			}
 		},
 		{
@@ -146,7 +146,7 @@
 			"type": "Instant",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW15 — Allied Under Pressure.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW15 — Allied Under Pressure.png"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 			"type": "Enchantment",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW16 — Put to Sleep.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW16 — Put to Sleep.png"
 			}
 		},
 		{
@@ -166,7 +166,7 @@
 			"type": "Sorcery",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW17 — Well-Deserved Rest.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW17 — Well-Deserved Rest.png"
 			}
 		},
 		{
@@ -176,7 +176,7 @@
 			"type": "Instant",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW18 — Lost on Lunar Island.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW18 — Lost on Lunar Island.png"
 			}
 		},
 		{
@@ -186,7 +186,7 @@
 			"type": "Instant",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCW19 — Enlighten.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCW19 — Enlighten.png"
 			}
 		},
 		{
@@ -196,7 +196,7 @@
 			"type": "Sorcery",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU01 — Prototype Recipe.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU01 — Prototype Recipe.png"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 			"type": "Creature — Shark ",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU02 — Rockjaw.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU02 — Rockjaw.png"
 			}
 		},
 		{
@@ -216,7 +216,7 @@
 			"type": "Creature — Squid ",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU03 — Skittersquid.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU03 — Skittersquid.png"
 			}
 		},
 		{
@@ -226,7 +226,7 @@
 			"type": "Sorcery",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU04 — Frog Rain.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU04 — Frog Rain.png"
 			}
 		},
 		{
@@ -236,7 +236,7 @@
 			"type": "Creature — Fish ",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU05 — Cookie Cutter.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU05 — Cookie Cutter.png"
 			}
 		},
 		{
@@ -246,7 +246,7 @@
 			"type": "Sorcery",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU06 — Forbidden Knowledge.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU06 — Forbidden Knowledge.png"
 			}
 		},
 		{
@@ -256,7 +256,7 @@
 			"type": "Creature — Bird ",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU07 — Pengull.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU07 — Pengull.png"
 			}
 		},
 		{
@@ -266,7 +266,7 @@
 			"type": "Creature — Dog ",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU08 — Blue Hound.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU08 — Blue Hound.png"
 			}
 		},
 		{
@@ -276,7 +276,7 @@
 			"type": "Creature — Crab ",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU09 — Crab Guard.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU09 — Crab Guard.png"
 			}
 		},
 		{
@@ -286,7 +286,7 @@
 			"type": "Creature — Otter ",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU10 — Thieving Marotter.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU10 — Thieving Marotter.png"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 			"type": "Creature — Starfish ",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU11 — Anenemies.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU11 — Anenemies.png"
 			}
 		},
 		{
@@ -306,7 +306,7 @@
 			"type": "Creature — Plant ",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU12 — Sea Weed.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU12 — Sea Weed.png"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 			"type": "Creature — Whale ",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU13 — Gnarwail.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU13 — Gnarwail.png"
 			}
 		},
 		{
@@ -326,7 +326,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU14 — Moon Quay's Curse.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU14 — Moon Quay's Curse.png"
 			}
 		},
 		{
@@ -336,7 +336,7 @@
 			"type": "Instant",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU15 — Kite.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU15 — Kite.png"
 			}
 		},
 		{
@@ -346,7 +346,7 @@
 			"type": "Sorcery",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU16 — Immediate Priorities.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU16 — Immediate Priorities.png"
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU17 — Lost and Hungry.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU17 — Lost and Hungry.png"
 			}
 		},
 		{
@@ -366,7 +366,7 @@
 			"type": "Sorcery",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU18 — Freezing Temperatures.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU18 — Freezing Temperatures.png"
 			}
 		},
 		{
@@ -376,7 +376,7 @@
 			"type": "Sorcery",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCU19 — Pick Up the Pieces.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCU19 — Pick Up the Pieces.png"
 			}
 		},
 		{
@@ -386,7 +386,7 @@
 			"type": "Enchantment Creature — Horror ",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB01 — Crawling Horror.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB01 — Crawling Horror.png"
 			}
 		},
 		{
@@ -396,7 +396,7 @@
 			"type": "Creature — Horror ",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUB01 — Terrorbeak.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUB01 — Terrorbeak.png"
 			}
 		},
 		{
@@ -406,7 +406,7 @@
 			"type": "Creature — Bird ",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB03 — Tallbird.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB03 — Tallbird.png"
 			}
 		},
 		{
@@ -416,7 +416,7 @@
 			"type": "Creature — Tentacle ",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB04 — Swamp Tentacles.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB04 — Swamp Tentacles.png"
 			}
 		},
 		{
@@ -426,7 +426,7 @@
 			"type": "Creature — Bat ",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB05 — Cave Batilisk.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB05 — Cave Batilisk.png"
 			}
 		},
 		{
@@ -436,7 +436,7 @@
 			"type": "Creature — Insect ",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB06 — Marsh Mosquito.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB06 — Marsh Mosquito.png"
 			}
 		},
 		{
@@ -446,7 +446,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB07 — Cave Spider.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB07 — Cave Spider.png"
 			}
 		},
 		{
@@ -456,7 +456,7 @@
 			"type": "Creature — Spirit ",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB08 — Cemetery Ghost.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB08 — Cemetery Ghost.png"
 			}
 		},
 		{
@@ -466,7 +466,7 @@
 			"type": "Creature — Merfolk ",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB09 — Mean Merm.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB09 — Mean Merm.png"
 			}
 		},
 		{
@@ -476,7 +476,7 @@
 			"type": "Creature — Merfolk Warrior ",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB10 — Loyal Merm Guard.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB10 — Loyal Merm Guard.png"
 			}
 		},
 		{
@@ -486,7 +486,7 @@
 			"type": "Sorcery",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB11 — Cruel-Hearted Fun.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB11 — Cruel-Hearted Fun.png"
 			}
 		},
 		{
@@ -496,7 +496,7 @@
 			"type": "Artifact",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB12 — Meat Effigy.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB12 — Meat Effigy.png"
 			}
 		},
 		{
@@ -506,7 +506,7 @@
 			"type": "Instant",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB13 — United in Death.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB13 — United in Death.png"
 			}
 		},
 		{
@@ -516,7 +516,7 @@
 			"type": "Instant",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB14 — Command in Shadow.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB14 — Command in Shadow.png"
 			}
 		},
 		{
@@ -526,7 +526,7 @@
 			"type": "Enchantment",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB16 — Manipulate Shadows.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB16 — Manipulate Shadows.png"
 			}
 		},
 		{
@@ -536,7 +536,7 @@
 			"type": "Sorcery",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB15 — Unethical Sources.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB15 — Unethical Sources.png"
 			}
 		},
 		{
@@ -546,7 +546,7 @@
 			"type": "Sorcery",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB17 — Grave Robbery.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB17 — Grave Robbery.png"
 			}
 		},
 		{
@@ -556,7 +556,7 @@
 			"type": "Instant",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB18 — Night Hands.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB18 — Night Hands.png"
 			}
 		},
 		{
@@ -566,7 +566,7 @@
 			"type": "Sorcery",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB19 — Inhabiting Darkness.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB19 — Inhabiting Darkness.png"
 			}
 		},
 		{
@@ -576,7 +576,7 @@
 			"type": "Creature — Insect ",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR01 — Killer Bee.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR01 — Killer Bee.png"
 			}
 		},
 		{
@@ -586,7 +586,7 @@
 			"type": "Creature — Dog ",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR02 — Vicious Varg.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR02 — Vicious Varg.png"
 			}
 		},
 		{
@@ -596,7 +596,7 @@
 			"type": "Creature — Dog ",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR03 — Red Hound.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR03 — Red Hound.png"
 			}
 		},
 		{
@@ -606,13 +606,13 @@
 			"type": "Creature — Monkey ",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUR01 — Splumonkey_front.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUR01 — Splumonkey_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUR01 — Splumonkey_back.png"
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUR01 — Splumonkey_back.png"
 				}
 			}
 		},
@@ -623,7 +623,7 @@
 			"type": "Creature — Bird ",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR05 — Desert Buzzard.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR05 — Desert Buzzard.png"
 			}
 		},
 		{
@@ -633,7 +633,7 @@
 			"type": "Creature — Mole ",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR06 — Moleworm.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR06 — Moleworm.png"
 			}
 		},
 		{
@@ -643,7 +643,7 @@
 			"type": "Creature — Elemental Lobster ",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR07 — Rock Lobster.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR07 — Rock Lobster.png"
 			}
 		},
 		{
@@ -653,7 +653,7 @@
 			"type": "Creature — Bird Elk ",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR08 — Enraged Mosling.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR08 — Enraged Mosling.png"
 			}
 		},
 		{
@@ -663,7 +663,7 @@
 			"type": "Creature — Monkey Pirate ",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR09 — Moon Quay Raiders.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR09 — Moon Quay Raiders.png"
 			}
 		},
 		{
@@ -673,7 +673,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR10 — Spider Warrior.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR10 — Spider Warrior.png"
 			}
 		},
 		{
@@ -683,7 +683,7 @@
 			"type": "Creature — Insect ",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR11 — Fireflies.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR11 — Fireflies.png"
 			}
 		},
 		{
@@ -693,7 +693,7 @@
 			"type": "Sorcery",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR12 — Burning Frenzy.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR12 — Burning Frenzy.png"
 			}
 		},
 		{
@@ -703,7 +703,7 @@
 			"type": "Instant",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR13 — Enrage.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR13 — Enrage.png"
 			}
 		},
 		{
@@ -713,7 +713,7 @@
 			"type": "Instant",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR14 — Overheat.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR14 — Overheat.png"
 			}
 		},
 		{
@@ -723,7 +723,7 @@
 			"type": "Sorcery",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR15 — Thrill of Possibility.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR15 — Thrill of Possibility.png"
 			}
 		},
 		{
@@ -733,7 +733,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR16 — Willow's Lighter.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR16 — Willow's Lighter.png"
 			}
 		},
 		{
@@ -743,7 +743,7 @@
 			"type": "Sorcery",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR17 — Bel Canto of Courage.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR17 — Bel Canto of Courage.png"
 			}
 		},
 		{
@@ -753,7 +753,7 @@
 			"type": "Sorcery",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR18 — Scraping By.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR18 — Scraping By.png"
 			}
 		},
 		{
@@ -763,7 +763,7 @@
 			"type": "Sorcery",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUR04 — Focus on Fighting.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUR04 — Focus on Fighting.png"
 			}
 		},
 		{
@@ -773,7 +773,7 @@
 			"type": "Sorcery",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG01 — Lunch Break.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG01 — Lunch Break.png"
 			}
 		},
 		{
@@ -783,7 +783,7 @@
 			"type": "Sorcery",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG02 — Explore.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG02 — Explore.png"
 			}
 		},
 		{
@@ -793,7 +793,7 @@
 			"type": "Creature — Rabbit ",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG03 — Savannah Rabbit.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG03 — Savannah Rabbit.png"
 			}
 		},
 		{
@@ -803,7 +803,7 @@
 			"type": "Creature — Treefolk ",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG04 — Treeguard.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG04 — Treeguard.png"
 			}
 		},
 		{
@@ -813,13 +813,13 @@
 			"type": "Creature — Egg ",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUG02 — Tallbird Egg_front.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUG02 — Tallbird Egg_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUG02 — Tallbird Egg_back.png"
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUG02 — Tallbird Egg_back.png"
 				}
 			}
 		},
@@ -830,7 +830,7 @@
 			"type": "Sorcery",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG14 — Grow a Beard.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG14 — Grow a Beard.png"
 			}
 		},
 		{
@@ -840,7 +840,7 @@
 			"type": "Creature — Plant ",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG07 — Lureplant.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG07 — Lureplant.png"
 			}
 		},
 		{
@@ -850,7 +850,7 @@
 			"type": "Creature — Koala Elephant ",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG08 — Koalefant.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG08 — Koalefant.png"
 			}
 		},
 		{
@@ -860,7 +860,7 @@
 			"type": "Creature — Fungus ",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG09 — Mush Gnome.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG09 — Mush Gnome.png"
 			}
 		},
 		{
@@ -870,7 +870,7 @@
 			"type": "Creature — Insect ",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG10 — Fruit Fly Swarm.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG10 — Fruit Fly Swarm.png"
 			}
 		},
 		{
@@ -880,7 +880,7 @@
 			"type": "Creature — Plant ",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG11 — Mandrake.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG11 — Mandrake.png"
 			}
 		},
 		{
@@ -890,7 +890,7 @@
 			"type": "Creature — Plant Crocodile  ",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG12 — Grass Gator.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG12 — Grass Gator.png"
 			}
 		},
 		{
@@ -900,7 +900,7 @@
 			"type": "Creature — Plant Dog ",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG13 — Briar Wolf.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG13 — Briar Wolf.png"
 			}
 		},
 		{
@@ -910,7 +910,7 @@
 			"type": "Creature — Bird ",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG06 — Hungry Gobbler.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG06 — Hungry Gobbler.png"
 			}
 		},
 		{
@@ -920,7 +920,7 @@
 			"type": "Artifact — Meal Food ",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG15 — Trail Mix.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG15 — Trail Mix.png"
 			}
 		},
 		{
@@ -930,7 +930,7 @@
 			"type": "Sorcery",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUG04 — Overrun.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUG04 — Overrun.png"
 			}
 		},
 		{
@@ -940,7 +940,7 @@
 			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG17 — Show of Strength.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG17 — Show of Strength.png"
 			}
 		},
 		{
@@ -950,7 +950,7 @@
 			"type": "Sorcery",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG18 — Full Bloom.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG18 — Full Bloom.png"
 			}
 		},
 		{
@@ -960,7 +960,7 @@
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG19 — Fresh Resources.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG19 — Fresh Resources.png"
 			}
 		},
 		{
@@ -970,7 +970,7 @@
 			"type": "Creature — Avatar ",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUW01 — Greater Gestalt.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUW01 — Greater Gestalt.png"
 			}
 		},
 		{
@@ -980,7 +980,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUW02 — Charged Elding Spear.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUW02 — Charged Elding Spear.png"
 			}
 		},
 		{
@@ -990,7 +990,7 @@
 			"type": "Legendary Creature — Human Survivor ",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUW03 — Wes, Unfortunate Mime.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUW03 — Wes, Unfortunate Mime.png"
 			}
 		},
 		{
@@ -1000,7 +1000,7 @@
 			"type": "Legendary Creature — Time Lord Survivor ",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUW04 — Wanda, Time Witch.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUW04 — Wanda, Time Witch.png"
 			}
 		},
 		{
@@ -1010,13 +1010,13 @@
 			"type": "Artifact",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUU01 — Science Machine_front.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUU01 — Science Machine_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUU01 — Science Machine_back.png"
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUU01 — Science Machine_back.png"
 				}
 			}
 		},
@@ -1027,7 +1027,7 @@
 			"type": "Legendary Creature — Crab ",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUU02 — Pearl, Crabby Hermit.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUU02 — Pearl, Crabby Hermit.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Legendary Creature — Human Survivor ",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUU03 — Wilson, Gentleman Scientist.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUU03 — Wilson, Gentleman Scientist.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUU04 — Bio Scanalyzer.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUU04 — Bio Scanalyzer.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCB02 — Constant Spider.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCB02 — Constant Spider.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Artifact",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUB02 — Nightmare Light.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUB02 — Nightmare Light.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Enchantment",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUB03 — Endure Horror.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUB03 — Endure Horror.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Enchantment",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUB04 — Stuff of Nightmares.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUB04 — Stuff of Nightmares.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Legendary Creature — Human Survivor ",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUB05 — Maxwell, Shadow King.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUB05 — Maxwell, Shadow King.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Creature — Elemental Insect ",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR04 — Lavae.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR04 — Lavae.png"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Creature — Plant Lizard ",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUR02 — Saladmander.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUR02 — Saladmander.png"
 			}
 		},
 		{
@@ -1127,7 +1127,7 @@
 			"type": "Legendary Creature — Human Survivor ",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUR03 — Willow, the Firestarter.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUR03 — Willow, the Firestarter.png"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Instant",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCR19 — Fight the Forge.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCR19 — Fight the Forge.png"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Legendary Creature — Human Survivor ",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUG01 — Wolfgang the Strongman.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUG01 — Wolfgang the Strongman.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Creature — Plant Lizard ",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG05 — Grass Gekko.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG05 — Grass Gekko.png"
 			}
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"type": "Creature — Boar Peasant ",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUG03 — Peaceful Pig.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUG03 — Peaceful Pig.png"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Instant",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCG16 — Massive Might.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCG16 — Massive Might.png"
 			}
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"type": "Legendary Creature — Giant Rhino ",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRW01 — The Ancient Guardian.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRW01 — The Ancient Guardian.png"
 			}
 		},
 		{
@@ -1197,7 +1197,7 @@
 			"type": "Legendary Creature — Giant Crab ",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRU01 — Crab King, Watery Grave.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRU01 — Crab King, Watery Grave.png"
 			}
 		},
 		{
@@ -1207,7 +1207,7 @@
 			"type": "Legendary Creature — Horror ",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRB01 — The Shadow Pieces.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRB01 — The Shadow Pieces.png"
 			}
 		},
 		{
@@ -1217,7 +1217,7 @@
 			"type": "Legendary Creature — Giant Elemental Dragon ",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRR01 — Dragonfly, Magma Matron.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRR01 — Dragonfly, Magma Matron.png"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 			"type": "Legendary Creature — Giant Insect Noble ",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRG01 — Bee Queen, Buzzing Hive.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRG01 — Bee Queen, Buzzing Hive.png"
 			}
 		},
 		{
@@ -1237,7 +1237,7 @@
 			"type": "Enchantment",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRG02 — Winter Stashing.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRG02 — Winter Stashing.png"
 			}
 		},
 		{
@@ -1247,7 +1247,7 @@
 			"type": "Legendary Creature — Human Survivor ",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUM01 — Winona, Handywoman.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUM01 — Winona, Handywoman.png"
 			}
 		},
 		{
@@ -1257,7 +1257,7 @@
 			"type": "Legendary Creature — Giant Elk Cyclops ",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRM01 — Deerclops, Winter's Call.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRM01 — Deerclops, Winter's Call.png"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 			"type": "Enchantment",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUM01 — Hound Wave.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUM01 — Hound Wave.png"
 			}
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"type": "Legendary Creature — Human Survivor ",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUM01 — Woodie, Cursed Lumberjack.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUM01 — Woodie, Cursed Lumberjack.png"
 			}
 		},
 		{
@@ -1287,7 +1287,7 @@
 			"type": "Legendary Creature — Human Survivor ",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUM01 — Warly, Camp Chef.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUM01 — Warly, Camp Chef.png"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Legendary Creature — Human Survivor ",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUM01 — Wendy, the Bereaved.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUM01 — Wendy, the Bereaved.png"
 			}
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"type": "Creature — Goat ",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUM01 — Volt Goat.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUM01 — Volt Goat.png"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"type": "Legendary Creature — Spider Survivor ",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUM01 — Webber, the Indigestible.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUM01 — Webber, the Indigestible.png"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Legendary Creature — Human Warrior Survivor ",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUM01 — Wigfrid, Battle Performer.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUM01 — Wigfrid, Battle Performer.png"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"type": "Legendary Creature — Plant Survivor ",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUM01 — Wormwood, the Lonesome.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUM01 — Wormwood, the Lonesome.png"
 			}
 		},
 		{
@@ -1347,7 +1347,7 @@
 			"type": "Legendary Creature — Human Survivor ",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRM01 — Wickerbottom, the Librarian.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRM01 — Wickerbottom, the Librarian.png"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			"type": "Legendary Creature — Human Wizard Survivor ",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUM01 — Maxwell, Showmaster.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUM01 — Maxwell, Showmaster.png"
 			}
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"type": "Legendary Creature — Human Warrior ",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRM01 — Battlemaster Pugnaz.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRM01 — Battlemaster Pugnaz.png"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 			"type": "Legendary Creature — Giant Badger Bear ",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRM01 — Bearger, Autumn Hunger.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRM01 — Bearger, Autumn Hunger.png"
 			}
 		},
 		{
@@ -1387,7 +1387,7 @@
 			"type": "Legendary Creature — Goat Citizen ",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRM01 — Mumsy and Billy, Kind Goats.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRM01 — Mumsy and Billy, Kind Goats.png"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"type": "Legendary Creature — Spirit ",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRM01 — Abigail, Persistent Kin.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRM01 — Abigail, Persistent Kin.png"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRM01 — Overcharged.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRM01 — Overcharged.png"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"type": "Enchantment",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRM01 — Campfire Story.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRM01 — Campfire Story.png"
 			}
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"type": "Legendary Creature — Giant Insect ",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRM01 — Antlion, Summer Rumbler.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRM01 — Antlion, Summer Rumbler.png"
 			}
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"type": "Legendary Creature — Merfolk Survivor ",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRM02 — Wurt, Friendly Merm.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRM02 — Wurt, Friendly Merm.png"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Artifact",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCA01 — Worm Hole.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCA01 — Worm Hole.png"
 			}
 		},
 		{
@@ -1457,7 +1457,7 @@
 			"type": "Artifact",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCA02 — Crock Pot.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCA02 — Crock Pot.png"
 			}
 		},
 		{
@@ -1467,7 +1467,7 @@
 			"type": "Artifact — Equipment Food ",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCA03 — Ham Bat.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCA03 — Ham Bat.png"
 			}
 		},
 		{
@@ -1477,7 +1477,7 @@
 			"type": "Artifact — Meal Food ",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCA04 — Meatballs.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCA04 — Meatballs.png"
 			}
 		},
 		{
@@ -1487,7 +1487,7 @@
 			"type": "Artifact — Food Meal ",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCA05 — Meaty Stew.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCA05 — Meaty Stew.png"
 			}
 		},
 		{
@@ -1497,7 +1497,7 @@
 			"type": "Artifact — Meal Food Horror ",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUA01 — Grim Galette.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUA01 — Grim Galette.png"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Artifact — Food Meal ",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUA02 — Steamed Twigs.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUA02 — Steamed Twigs.png"
 			}
 		},
 		{
@@ -1517,7 +1517,7 @@
 			"type": "Artifact — Food Meal ",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUA03 — Mandrake Soup.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUA03 — Mandrake Soup.png"
 			}
 		},
 		{
@@ -1527,13 +1527,13 @@
 			"type": "Legendary Land",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRL01 — The Florid Postern_front.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRL01 — The Florid Postern_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRL01 — The Florid Postern_back.png"
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRL01 — The Florid Postern_back.png"
 				}
 			}
 		},
@@ -1544,7 +1544,7 @@
 			"type": "Artifact — Food Meal ",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUA05 — Volt Goat Chaud-Froid.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUA05 — Volt Goat Chaud-Froid.png"
 			}
 		},
 		{
@@ -1554,7 +1554,7 @@
 			"type": "Land — Base ",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsCL01 — Temporary Outpost.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSCL01 — Temporary Outpost.png"
 			}
 		},
 		{
@@ -1564,7 +1564,7 @@
 			"type": "Artifact — Nasty Food Meal ",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUA04 — Monster Lasagna.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUA04 — Monster Lasagna.png"
 			}
 		},
 		{
@@ -1574,7 +1574,7 @@
 			"type": "Land — Base ",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUL05 — Deciduous Forest.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUL05 — Deciduous Forest.png"
 			}
 		},
 		{
@@ -1584,7 +1584,7 @@
 			"type": "Land — Base ",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUL04 — Grassy Plains.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUL04 — Grassy Plains.png"
 			}
 		},
 		{
@@ -1594,7 +1594,7 @@
 			"type": "Land — Base ",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUL06 — Pond Fields.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUL06 — Pond Fields.png"
 			}
 		},
 		{
@@ -1604,7 +1604,7 @@
 			"type": "Land — Base ",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUL02 — Lunar Grotto.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUL02 — Lunar Grotto.png"
 			}
 		},
 		{
@@ -1614,7 +1614,7 @@
 			"type": "Artifact",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUX02 — Wretched Gramophone.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUX02 — Wretched Gramophone.png"
 			}
 		},
 		{
@@ -1624,7 +1624,7 @@
 			"type": "Creature — Demon ",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUX01 — Krampus.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUX01 — Krampus.png"
 			}
 		},
 		{
@@ -1634,13 +1634,13 @@
 			"type": "Artifact",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsMX02 — Lunar Siphonator_front.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSMX02 — Lunar Siphonator_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsMX02 — Lunar Siphonator_back.png"
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSMX02 — Lunar Siphonator_back.png"
 				}
 			}
 		},
@@ -1651,7 +1651,7 @@
 			"type": "Legendary Creature — Giant Demon ",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsMX03 — Klaus, Gift Hoarder.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSMX03 — Klaus, Gift Hoarder.png"
 			}
 		},
 		{
@@ -1661,7 +1661,7 @@
 			"type": "Legendary Creature — Giant Bird Elk ",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRM01 — Moose Goose, Spring Mother.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRM01 — Moose Goose, Spring Mother.png"
 			}
 		},
 		{
@@ -1671,13 +1671,13 @@
 			"type": "Artifact Creature — Skeleton ",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsMX01 — Reanimated Skeleton_front.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSMX01 — Reanimated Skeleton_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsMX01 — Reanimated Skeleton_back.png"
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSMX01 — Reanimated Skeleton_back.png"
 				}
 			}
 		},
@@ -1688,7 +1688,7 @@
 			"type": "Legendary Creature — Dog ",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRM02 — Chester, Mobile Storage.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRM02 — Chester, Mobile Storage.png"
 			}
 		},
 		{
@@ -1698,7 +1698,7 @@
 			"type": "Land — Base ",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUL01 — Lunar Island.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUL01 — Lunar Island.png"
 			}
 		},
 		{
@@ -1708,7 +1708,7 @@
 			"type": "Land — Base ",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUL03 — Oasis Desert.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUL03 — Oasis Desert.png"
 			}
 		},
 		{
@@ -1718,7 +1718,7 @@
 			"type": "Land — Base ",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUL09 — Mushtree Forest.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUL09 — Mushtree Forest.png"
 			}
 		},
 		{
@@ -1728,7 +1728,7 @@
 			"type": "Land — Base ",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUL07 — Ancient Ruins.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUL07 — Ancient Ruins.png"
 			}
 		},
 		{
@@ -1738,7 +1738,7 @@
 			"type": "Land — Base ",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUL10 — Moon Quay.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUL10 — Moon Quay.png"
 			}
 		},
 		{
@@ -1748,7 +1748,7 @@
 			"type": "Land — Base ",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsUL08 — Monstrous Marsh.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSUL08 — Monstrous Marsh.png"
 			}
 		},
 		{
@@ -1758,13 +1758,13 @@
 			"type": "Legendary Land",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRL02 — The Atrium_front.png"
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRL02 — The Atrium_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/peixedovento/mse/main/dtsRL02 — The Atrium_back.png"
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTSRL02 — The Atrium_back.png"
 				}
 			}
 		},
