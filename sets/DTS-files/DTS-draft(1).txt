@@ -1,0 +1,2188 @@
+[CustomCards]
+	[	{
+			"name": "CW01 — Gestalt",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Avatar ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW01 — Gestalt.png"
+			}
+		},
+		{
+			"name": "CW02 — Wild Beefalo",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Ox ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW02 — Wild Beefalo.png"
+			}
+		},
+		{
+			"name": "CW03 — Hoarding Catcoon",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Raccoon ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW03 — Hoarding Catcoon.png"
+			}
+		},
+		{
+			"name": "CW04 — Moon Moth",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Insect ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW04 — Moon Moth.png"
+			}
+		},
+		{
+			"name": "CW05 — No-Eyed Deer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elk ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW05 — No-Eyed Deer.png"
+			}
+		},
+		{
+			"name": "CW06 — Dust Moth",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect Avatar ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW06 — Dust Moth.png"
+			}
+		},
+		{
+			"name": "CW13 — Ghastly Downtime",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW13 — Ghastly Downtime.png"
+			}
+		},
+		{
+			"name": "CW08 — Bright-Eyed Frog",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Frog Avatar ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW08 — Bright-Eyed Frog.png"
+			}
+		},
+		{
+			"name": "CW09 — Ancient Sentrypede",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Artifact Creature — Insect ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW09 — Ancient Sentrypede.png"
+			}
+		},
+		{
+			"name": "CW10 — Moonblind Crows",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Bird  ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW10 — Moonblind Crows.png"
+			}
+		},
+		{
+			"name": "CW11 — Beefalo Calf",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Ox ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW11 — Beefalo Calf.png"
+			}
+		},
+		{
+			"name": "CW12 — Carrat",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Rabbit Plant ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW12 — Carrat.png"
+			}
+		},
+		{
+			"name": "CW07 — Pipspooks",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW07 — Pipspooks.png"
+			}
+		},
+		{
+			"name": "CW14 — Clear Minded Cadenza",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW14 — Clear Minded Cadenza.png"
+			}
+		},
+		{
+			"name": "CW15 — Allied Under Pressure",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW15 — Allied Under Pressure.png"
+			}
+		},
+		{
+			"name": "CW16 — Put to Sleep",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW16 — Put to Sleep.png"
+			}
+		},
+		{
+			"name": "CW17 — Well-Deserved Rest",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW17 — Well-Deserved Rest.png"
+			}
+		},
+		{
+			"name": "CW18 — Lost on Lunar Island",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW18 — Lost on Lunar Island.png"
+			}
+		},
+		{
+			"name": "CW19 — Enlighten",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CW19 — Enlighten.png"
+			}
+		},
+		{
+			"name": "CU01 — Prototype Recipe",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU01 — Prototype Recipe.png"
+			}
+		},
+		{
+			"name": "CU02 — Rockjaw",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Shark ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU02 — Rockjaw.png"
+			}
+		},
+		{
+			"name": "CU03 — Skittersquid",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Squid ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU03 — Skittersquid.png"
+			}
+		},
+		{
+			"name": "CU04 — Frog Rain",
+			"rarity": "common",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU04 — Frog Rain.png"
+			}
+		},
+		{
+			"name": "CU05 — Cookie Cutter",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Fish ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU05 — Cookie Cutter.png"
+			}
+		},
+		{
+			"name": "CU06 — Forbidden Knowledge",
+			"rarity": "common",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU06 — Forbidden Knowledge.png"
+			}
+		},
+		{
+			"name": "CU07 — Pengull",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU07 — Pengull.png"
+			}
+		},
+		{
+			"name": "CU08 — Blue Hound",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Dog ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU08 — Blue Hound.png"
+			}
+		},
+		{
+			"name": "CU09 — Crab Guard",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Crab ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU09 — Crab Guard.png"
+			}
+		},
+		{
+			"name": "CU10 — Thieving Marotter",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Otter ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU10 — Thieving Marotter.png"
+			}
+		},
+		{
+			"name": "CU11 — Anenemies",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Starfish ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU11 — Anenemies.png"
+			}
+		},
+		{
+			"name": "CU12 — Sea Weed",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Plant ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU12 — Sea Weed.png"
+			}
+		},
+		{
+			"name": "CU13 — Gnarwail",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Whale ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU13 — Gnarwail.png"
+			}
+		},
+		{
+			"name": "CU14 — Moon Quay's Curse",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU14 — Moon Quay's Curse.png"
+			}
+		},
+		{
+			"name": "CU15 — Kite",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU15 — Kite.png"
+			}
+		},
+		{
+			"name": "CU16 — Immediate Priorities",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU16 — Immediate Priorities.png"
+			}
+		},
+		{
+			"name": "CU17 — Lost and Hungry",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU17 — Lost and Hungry.png"
+			}
+		},
+		{
+			"name": "CU18 — Freezing Temperatures",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU18 — Freezing Temperatures.png"
+			}
+		},
+		{
+			"name": "CU19 — Pick Up the Pieces",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CU19 — Pick Up the Pieces.png"
+			}
+		},
+		{
+			"name": "CB01 — Crawling Horror",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment Creature — Horror ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB01 — Crawling Horror.png"
+			}
+		},
+		{
+			"name": "UB01 — Terrorbeak",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UB01 — Terrorbeak.png"
+			}
+		},
+		{
+			"name": "CB03 — Tallbird",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB03 — Tallbird.png"
+			}
+		},
+		{
+			"name": "CB04 — Swamp Tentacles",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Tentacle ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB04 — Swamp Tentacles.png"
+			}
+		},
+		{
+			"name": "CB05 — Cave Batilisk",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bat ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB05 — Cave Batilisk.png"
+			}
+		},
+		{
+			"name": "CB06 — Marsh Mosquito",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB06 — Marsh Mosquito.png"
+			}
+		},
+		{
+			"name": "CB07 — Cave Spider",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spider ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB07 — Cave Spider.png"
+			}
+		},
+		{
+			"name": "CB08 — Cemetery Ghost",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB08 — Cemetery Ghost.png"
+			}
+		},
+		{
+			"name": "CB09 — Mean Merm",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Merfolk ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB09 — Mean Merm.png"
+			}
+		},
+		{
+			"name": "CB10 — Loyal Merm Guard",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Merfolk Warrior ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB10 — Loyal Merm Guard.png"
+			}
+		},
+		{
+			"name": "CB11 — Cruel-Hearted Fun",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB11 — Cruel-Hearted Fun.png"
+			}
+		},
+		{
+			"name": "CB12 — Meat Effigy",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB12 — Meat Effigy.png"
+			}
+		},
+		{
+			"name": "CB13 — United in Death",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB13 — United in Death.png"
+			}
+		},
+		{
+			"name": "CB14 — Command in Shadow",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB14 — Command in Shadow.png"
+			}
+		},
+		{
+			"name": "CB16 — Manipulate Shadows",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB16 — Manipulate Shadows.png"
+			}
+		},
+		{
+			"name": "CB15 — Unethical Sources",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB15 — Unethical Sources.png"
+			}
+		},
+		{
+			"name": "CB17 — Grave Robbery",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB17 — Grave Robbery.png"
+			}
+		},
+		{
+			"name": "CB18 — Shadow Hands",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB18 — Shadow Hands.png"
+			}
+		},
+		{
+			"name": "CB19 — Inhabiting Darkness",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB19 — Inhabiting Darkness.png"
+			}
+		},
+		{
+			"name": "CR01 — Killer Bee",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Insect ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR01 — Killer Bee.png"
+			}
+		},
+		{
+			"name": "CR02 — Vicious Varg",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dog ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR02 — Vicious Varg.png"
+			}
+		},
+		{
+			"name": "CR03 — Red Hound",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Dog ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR03 — Red Hound.png"
+			}
+		},
+		{
+			"name": "UR01 — Splumonkey",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Monkey ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UR01 — Splumonkey_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UR01 — Splumonkey_back.png"
+				}
+			}
+		},
+		{
+			"name": "CR05 — Desert Buzzard",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Bird ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR05 — Desert Buzzard.png"
+			}
+		},
+		{
+			"name": "CR06 — Moleworm",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Mole ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR06 — Moleworm.png"
+			}
+		},
+		{
+			"name": "CR07 — Rock Lobster",
+			"rarity": "common",
+			"mana_cost": "{6}{R}",
+			"type": "Creature — Elemental Lobster ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR07 — Rock Lobster.png"
+			}
+		},
+		{
+			"name": "CR08 — Enraged Mosling",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Bird Elk ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR08 — Enraged Mosling.png"
+			}
+		},
+		{
+			"name": "CR09 — Moon Quay Raiders",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Monkey Pirate ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR09 — Moon Quay Raiders.png"
+			}
+		},
+		{
+			"name": "CR10 — Spider Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Spider ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR10 — Spider Warrior.png"
+			}
+		},
+		{
+			"name": "CR11 — Fireflies",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Insect ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR11 — Fireflies.png"
+			}
+		},
+		{
+			"name": "CR12 — Burning Frenzy",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR12 — Burning Frenzy.png"
+			}
+		},
+		{
+			"name": "CR13 — Enrage",
+			"rarity": "common",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR13 — Enrage.png"
+			}
+		},
+		{
+			"name": "CR14 — Overheat",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR14 — Overheat.png"
+			}
+		},
+		{
+			"name": "CR15 — Thrill of Possibility",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR15 — Thrill of Possibility.png"
+			}
+		},
+		{
+			"name": "CR16 — Willow's Lighter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR16 — Willow's Lighter.png"
+			}
+		},
+		{
+			"name": "CR17 — Bel Canto of Courage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR17 — Bel Canto of Courage.png"
+			}
+		},
+		{
+			"name": "CR18 — Scraping By",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR18 — Scraping By.png"
+			}
+		},
+		{
+			"name": "UR04 — Focus on Fighting",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UR04 — Focus on Fighting.png"
+			}
+		},
+		{
+			"name": "CG01 — Lunch Break",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG01 — Lunch Break.png"
+			}
+		},
+		{
+			"name": "CG02 — Explore",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG02 — Explore.png"
+			}
+		},
+		{
+			"name": "CG03 — Savannah Rabbit",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Rabbit ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG03 — Savannah Rabbit.png"
+			}
+		},
+		{
+			"name": "CG04 — Treeguard",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature — Treefolk ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG04 — Treeguard.png"
+			}
+		},
+		{
+			"name": "UG02 — Tallbird Egg",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Egg ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UG02 — Tallbird Egg_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UG02 — Tallbird Egg_back.png"
+				}
+			}
+		},
+		{
+			"name": "CG14 — Grow a Beard",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG14 — Grow a Beard.png"
+			}
+		},
+		{
+			"name": "CG07 — Lureplant",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Plant ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG07 — Lureplant.png"
+			}
+		},
+		{
+			"name": "CG08 — Koalefant",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Koala Elephant ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG08 — Koalefant.png"
+			}
+		},
+		{
+			"name": "CG09 — Mush Gnome",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Fungus ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG09 — Mush Gnome.png"
+			}
+		},
+		{
+			"name": "CG10 — Fruit Fly Swarm",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG10 — Fruit Fly Swarm.png"
+			}
+		},
+		{
+			"name": "CG11 — Mandrake",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG11 — Mandrake.png"
+			}
+		},
+		{
+			"name": "CG12 — Grass Gator",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant Crocodile  ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG12 — Grass Gator.png"
+			}
+		},
+		{
+			"name": "CG13 — Briar Wolf",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Dog ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG13 — Briar Wolf.png"
+			}
+		},
+		{
+			"name": "CG06 — Hungry Gobbler",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Bird ",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG06 — Hungry Gobbler.png"
+			}
+		},
+		{
+			"name": "CG15 — Trail Mix",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Meal Food ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG15 — Trail Mix.png"
+			}
+		},
+		{
+			"name": "UG04 — Overrun",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UG04 — Overrun.png"
+			}
+		},
+		{
+			"name": "CG17 — Show of Strength",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG17 — Show of Strength.png"
+			}
+		},
+		{
+			"name": "CG18 — Full Bloom",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG18 — Full Bloom.png"
+			}
+		},
+		{
+			"name": "CG19 — Fresh Resources",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG19 — Fresh Resources.png"
+			}
+		},
+		{
+			"name": "UW01 — Greater Gestalt",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Avatar ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UW01 — Greater Gestalt.png"
+			}
+		},
+		{
+			"name": "UW02 — Charged Elding Spear",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UW02 — Charged Elding Spear.png"
+			}
+		},
+		{
+			"name": "UW03 — Wes, Unfortunate Mime",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Survivor ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UW03 — Wes, Unfortunate Mime.png"
+			}
+		},
+		{
+			"name": "UW04 — Wanda, Time Witch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Time Lord Survivor ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UW04 — Wanda, Time Witch.png"
+			}
+		},
+		{
+			"name": "UU01 — Science Machine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UU01 — Science Machine_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UU01 — Science Machine_back.png"
+				}
+			}
+		},
+		{
+			"name": "UU02 — Pearl, Crabby Hermit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Crab ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UU02 — Pearl, Crabby Hermit.png"
+			}
+		},
+		{
+			"name": "UU03 — Wilson, Gentleman Scientist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Survivor ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UU03 — Wilson, Gentleman Scientist.png"
+			}
+		},
+		{
+			"name": "UU04 — Bio Scanalyzer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UU04 — Bio Scanalyzer.png"
+			}
+		},
+		{
+			"name": "CB02 — Constant Spider",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Spider ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CB02 — Constant Spider.png"
+			}
+		},
+		{
+			"name": "UB02 — Nightmare Light",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UB02 — Nightmare Light.png"
+			}
+		},
+		{
+			"name": "UB03 — Endure Horror",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UB03 — Endure Horror.png"
+			}
+		},
+		{
+			"name": "UB04 — Stuff of Nightmares",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UB04 — Stuff of Nightmares.png"
+			}
+		},
+		{
+			"name": "UB05 — Maxwell, Shadow King",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Survivor ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UB05 — Maxwell, Shadow King.png"
+			}
+		},
+		{
+			"name": "CR04 — Lavae",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Insect ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR04 — Lavae.png"
+			}
+		},
+		{
+			"name": "UR02 — Saladmander",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Plant Lizard ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UR02 — Saladmander.png"
+			}
+		},
+		{
+			"name": "UR03 — Willow, the Firestarter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Survivor ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UR03 — Willow, the Firestarter.png"
+			}
+		},
+		{
+			"name": "CR19 — Fight the Forge",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CR19 — Fight the Forge.png"
+			}
+		},
+		{
+			"name": "UG01 — Wolfgang the Strongman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Survivor ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UG01 — Wolfgang the Strongman.png"
+			}
+		},
+		{
+			"name": "CG05 — Grass Gekko",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Lizard ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG05 — Grass Gekko.png"
+			}
+		},
+		{
+			"name": "UG03 — Peaceful Pig",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Boar Peasant ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UG03 — Peaceful Pig.png"
+			}
+		},
+		{
+			"name": "CG16 — Massive Might",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CG16 — Massive Might.png"
+			}
+		},
+		{
+			"name": "RW01 — The Ancient Guardian",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Legendary Creature — Giant Rhino ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RW01 — The Ancient Guardian.png"
+			}
+		},
+		{
+			"name": "RU01 — Crab King, Watery Grave",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Giant Crab ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RU01 — Crab King, Watery Grave.png"
+			}
+		},
+		{
+			"name": "RB01 — The Shadow Pieces",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}{B}{B}",
+			"type": "Legendary Creature — Horror ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RB01 — The Shadow Pieces.png"
+			}
+		},
+		{
+			"name": "RB02 — Nightfall",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RB02 — Nightfall.png"
+			}
+		},
+		{
+			"name": "RR01 — Dragonfly, Magma Matron",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Giant Elemental Dragon ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RR01 — Dragonfly, Magma Matron.png"
+			}
+		},
+		{
+			"name": "RG01 — Bee Queen, Buzzing Hive",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Creature — Giant Insect Noble ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RG01 — Bee Queen, Buzzing Hive.png"
+			}
+		},
+		{
+			"name": "RG02 — Winter Stashing",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RG02 — Winter Stashing.png"
+			}
+		},
+		{
+			"name": "UM01 — Winona, Handywoman",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Human Survivor ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UM01 — Winona, Handywoman.png"
+			}
+		},
+		{
+			"name": "RM01 — Deerclops, Winter's Call",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Giant Elk Cyclops ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RM01 — Deerclops, Winter's Call.png"
+			}
+		},
+		{
+			"name": "UM01 — Hound Wave",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UM01 — Hound Wave.png"
+			}
+		},
+		{
+			"name": "UM01 — Woodie, Cursed Lumberjack",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Survivor ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UM01 — Woodie, Cursed Lumberjack.png"
+			}
+		},
+		{
+			"name": "UM01 — Warly, Camp Chef",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Survivor ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UM01 — Warly, Camp Chef.png"
+			}
+		},
+		{
+			"name": "UM01 — Wendy, the Bereaved",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Survivor ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UM01 — Wendy, the Bereaved.png"
+			}
+		},
+		{
+			"name": "UM01 — Volt Goat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Goat ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UM01 — Volt Goat.png"
+			}
+		},
+		{
+			"name": "UM01 — Webber, the Indigestible",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Spider Survivor ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UM01 — Webber, the Indigestible.png"
+			}
+		},
+		{
+			"name": "UM01 — Wigfrid, Battle Performer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Warrior Survivor ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UM01 — Wigfrid, Battle Performer.png"
+			}
+		},
+		{
+			"name": "UM01 — Wormwood, the Lonesome",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Plant Survivor ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UM01 — Wormwood, the Lonesome.png"
+			}
+		},
+		{
+			"name": "RM01 — Wickerbottom, the Librarian",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Survivor ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RM01 — Wickerbottom, the Librarian.png"
+			}
+		},
+		{
+			"name": "UM01 — Maxwell, Showmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Wizard Survivor ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UM01 — Maxwell, Showmaster.png"
+			}
+		},
+		{
+			"name": "RM01 — Battlemaster Pugnaz",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RM01 — Battlemaster Pugnaz.png"
+			}
+		},
+		{
+			"name": "RM01 — Bearger, Autumn Hunger",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Creature — Giant Badger Bear ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RM01 — Bearger, Autumn Hunger.png"
+			}
+		},
+		{
+			"name": "RM01 — Mumsy and Billy, Kind Goats",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Goat Citizen ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RM01 — Mumsy and Billy, Kind Goats.png"
+			}
+		},
+		{
+			"name": "RM01 — Abigail, Persistent Kin",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Spirit ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RM01 — Abigail, Persistent Kin.png"
+			}
+		},
+		{
+			"name": "RM01 — Overcharged",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RM01 — Overcharged.png"
+			}
+		},
+		{
+			"name": "RM01 — Campfire Story",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RM01 — Campfire Story.png"
+			}
+		},
+		{
+			"name": "RM01 — Antlion, Summer Rumbler",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Giant Insect ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RM01 — Antlion, Summer Rumbler.png"
+			}
+		},
+		{
+			"name": "RM02 — Wurt, Friendly Merm",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Merfolk Survivor ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RM02 — Wurt, Friendly Merm.png"
+			}
+		},
+		{
+			"name": "CA01 — Worm Hole",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CA01 — Worm Hole.png"
+			}
+		},
+		{
+			"name": "CA02 — Crock Pot",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CA02 — Crock Pot.png"
+			}
+		},
+		{
+			"name": "CA03 — Ham Bat",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment Food ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CA03 — Ham Bat.png"
+			}
+		},
+		{
+			"name": "CA04 — Meatballs",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Meal Food ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CA04 — Meatballs.png"
+			}
+		},
+		{
+			"name": "CA05 — Meaty Stew",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Food Meal ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CA05 — Meaty Stew.png"
+			}
+		},
+		{
+			"name": "UA01 — Grim Galette",
+			"rarity": "uncommon",
+			"mana_cost": "{X}",
+			"type": "Artifact — Meal Food Horror ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UA01 — Grim Galette.png"
+			}
+		},
+		{
+			"name": "UA02 — Steamed Twigs",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food Meal ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UA02 — Steamed Twigs.png"
+			}
+		},
+		{
+			"name": "UA03 — Mandrake Soup",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Food Meal ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UA03 — Mandrake Soup.png"
+			}
+		},
+		{
+			"name": "RL01 — The Florid Postern",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RL01 — The Florid Postern_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RL01 — The Florid Postern_back.png"
+				}
+			}
+		},
+		{
+			"name": "UA05 — Volt Goat Chaud-Froid",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Food Meal ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UA05 — Volt Goat Chaud-Froid.png"
+			}
+		},
+		{
+			"name": "CL01 — Temporary Outpost",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Base ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/CL01 — Temporary Outpost.png"
+			}
+		},
+		{
+			"name": "UA04 — Monster Lasagna",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Nasty Food Meal ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UA04 — Monster Lasagna.png"
+			}
+		},
+		{
+			"name": "UL05 — Deciduous Forest",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Base ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UL05 — Deciduous Forest.png"
+			}
+		},
+		{
+			"name": "UL04 — Grassy Plains",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Base ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UL04 — Grassy Plains.png"
+			}
+		},
+		{
+			"name": "UL06 — Pond Fields",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Base ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UL06 — Pond Fields.png"
+			}
+		},
+		{
+			"name": "UL02 — Lunar Grotto",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Base ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UL02 — Lunar Grotto.png"
+			}
+		},
+		{
+			"name": "UX02 — Wretched Gramophone",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UX02 — Wretched Gramophone.png"
+			}
+		},
+		{
+			"name": "UX01 — Krampus",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Demon ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UX01 — Krampus.png"
+			}
+		},
+		{
+			"name": "MX02 — Lunar Siphonator",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Artifact",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/MX02 — Lunar Siphonator_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/MX02 — Lunar Siphonator_back.png"
+				}
+			}
+		},
+		{
+			"name": "MX03 — Klaus, Gift Hoarder",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Giant Demon ",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/MX03 — Klaus, Gift Hoarder.png"
+			}
+		},
+		{
+			"name": "RM01 — Moose Goose, Spring Mother",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Legendary Creature — Giant Bird Elk ",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RM01 — Moose Goose, Spring Mother.png"
+			}
+		},
+		{
+			"name": "MX01 — Reanimated Skeleton",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Skeleton ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/MX01 — Reanimated Skeleton_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/MX01 — Reanimated Skeleton_back.png"
+				}
+			}
+		},
+		{
+			"name": "RM02 — Chester, Mobile Storage",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Dog ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RM02 — Chester, Mobile Storage.png"
+			}
+		},
+		{
+			"name": "UL01 — Lunar Island",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Base ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UL01 — Lunar Island.png"
+			}
+		},
+		{
+			"name": "UL03 — Oasis Desert",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Base ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UL03 — Oasis Desert.png"
+			}
+		},
+		{
+			"name": "UL09 — Mushtree Forest",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Base ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UL09 — Mushtree Forest.png"
+			}
+		},
+		{
+			"name": "UL07 — Ancient Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Base ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UL07 — Ancient Ruins.png"
+			}
+		},
+		{
+			"name": "UL10 — Moon Quay",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Base ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UL10 — Moon Quay.png"
+			}
+		},
+		{
+			"name": "UL08 — Monstrous Marsh",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Base ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/UL08 — Monstrous Marsh.png"
+			}
+		},
+		{
+			"name": "RL02 — The Atrium",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RL02 — The Atrium_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/RL02 — The Atrium_back.png"
+				}
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/Swamp.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/Forest.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/Plains.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/Mountain.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PeixeDoVento/MSE/main/DTS/Island.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 RW01 — The Ancient Guardian
+		2 RU01 — Crab King, Watery Grave
+		2 RB01 — The Shadow Pieces
+		2 RB02 — Nightfall
+		2 RR01 — Dragonfly, Magma Matron
+		2 RG01 — Bee Queen, Buzzing Hive
+		2 RG02 — Winter Stashing
+		2 RM01 — Deerclops, Winter's Call
+		2 RM01 — Wickerbottom, the Librarian
+		2 RM01 — Battlemaster Pugnaz
+		2 RM01 — Bearger, Autumn Hunger
+		2 RM01 — Mumsy and Billy, Kind Goats
+		2 RM01 — Abigail, Persistent Kin
+		2 RM01 — Overcharged
+		2 RM01 — Campfire Story
+		2 RM01 — Antlion, Summer Rumbler
+		2 RM02 — Wurt, Friendly Merm
+		2 RL01 — The Florid Postern
+		2 RM01 — Moose Goose, Spring Mother
+		2 RM02 — Chester, Mobile Storage
+		2 RL02 — The Atrium
+		1 MX02 — Lunar Siphonator
+		1 MX03 — Klaus, Gift Hoarder
+		1 MX01 — Reanimated Skeleton
+		[UncommonSlot(3)]
+	9 UB01 — Terrorbeak
+		9 UR01 — Splumonkey
+		9 UR04 — Focus on Fighting
+		9 UG02 — Tallbird Egg
+		9 UG04 — Overrun
+		9 UW01 — Greater Gestalt
+		9 UW02 — Charged Elding Spear
+		9 UW03 — Wes, Unfortunate Mime
+		9 UW04 — Wanda, Time Witch
+		9 UU01 — Science Machine
+		9 UU02 — Pearl, Crabby Hermit
+		9 UU03 — Wilson, Gentleman Scientist
+		9 UU04 — Bio Scanalyzer
+		9 UB02 — Nightmare Light
+		9 UB03 — Endure Horror
+		9 UB04 — Stuff of Nightmares
+		9 UB05 — Maxwell, Shadow King
+		9 UR02 — Saladmander
+		9 UR03 — Willow, the Firestarter
+		9 UG01 — Wolfgang the Strongman
+		9 UG03 — Peaceful Pig
+		9 UM01 — Winona, Handywoman
+		9 UM01 — Hound Wave
+		9 UM01 — Woodie, Cursed Lumberjack
+		9 UM01 — Warly, Camp Chef
+		9 UM01 — Wendy, the Bereaved
+		9 UM01 — Volt Goat
+		9 UM01 — Webber, the Indigestible
+		9 UM01 — Wigfrid, Battle Performer
+		9 UM01 — Wormwood, the Lonesome
+		9 UM01 — Maxwell, Showmaster
+		9 UA01 — Grim Galette
+		9 UA02 — Steamed Twigs
+		9 UA03 — Mandrake Soup
+		9 UA05 — Volt Goat Chaud-Froid
+		9 UA04 — Monster Lasagna
+		9 UX02 — Wretched Gramophone
+		9 UX01 — Krampus
+		[CommonSlot(9)]
+	30 CW01 — Gestalt
+		30 CW02 — Wild Beefalo
+		30 CW03 — Hoarding Catcoon
+		30 CW04 — Moon Moth
+		30 CW05 — No-Eyed Deer
+		30 CW06 — Dust Moth
+		30 CW13 — Ghastly Downtime
+		30 CW08 — Bright-Eyed Frog
+		30 CW09 — Ancient Sentrypede
+		30 CW10 — Moonblind Crows
+		30 CW11 — Beefalo Calf
+		30 CW12 — Carrat
+		30 CW07 — Pipspooks
+		30 CW14 — Clear Minded Cadenza
+		30 CW15 — Allied Under Pressure
+		30 CW16 — Put to Sleep
+		30 CW17 — Well-Deserved Rest
+		30 CW18 — Lost on Lunar Island
+		30 CW19 — Enlighten
+		30 CU01 — Prototype Recipe
+		30 CU02 — Rockjaw
+		30 CU03 — Skittersquid
+		30 CU04 — Frog Rain
+		30 CU05 — Cookie Cutter
+		30 CU06 — Forbidden Knowledge
+		30 CU07 — Pengull
+		30 CU08 — Blue Hound
+		30 CU09 — Crab Guard
+		30 CU10 — Thieving Marotter
+		30 CU11 — Anenemies
+		30 CU12 — Sea Weed
+		30 CU13 — Gnarwail
+		30 CU14 — Moon Quay's Curse
+		30 CU15 — Kite
+		30 CU16 — Immediate Priorities
+		30 CU17 — Lost and Hungry
+		30 CU18 — Freezing Temperatures
+		30 CU19 — Pick Up the Pieces
+		30 CB01 — Crawling Horror
+		30 CB03 — Tallbird
+		30 CB04 — Swamp Tentacles
+		30 CB05 — Cave Batilisk
+		30 CB06 — Marsh Mosquito
+		30 CB07 — Cave Spider
+		30 CB08 — Cemetery Ghost
+		30 CB09 — Mean Merm
+		30 CB10 — Loyal Merm Guard
+		30 CB11 — Cruel-Hearted Fun
+		30 CB12 — Meat Effigy
+		30 CB13 — United in Death
+		30 CB14 — Command in Shadow
+		30 CB16 — Manipulate Shadows
+		30 CB15 — Unethical Sources
+		30 CB17 — Grave Robbery
+		30 CB18 — Shadow Hands
+		30 CB19 — Inhabiting Darkness
+		30 CR01 — Killer Bee
+		30 CR02 — Vicious Varg
+		30 CR03 — Red Hound
+		30 CR05 — Desert Buzzard
+		30 CR06 — Moleworm
+		30 CR07 — Rock Lobster
+		30 CR08 — Enraged Mosling
+		30 CR09 — Moon Quay Raiders
+		30 CR10 — Spider Warrior
+		30 CR11 — Fireflies
+		30 CR12 — Burning Frenzy
+		30 CR13 — Enrage
+		30 CR14 — Overheat
+		30 CR15 — Thrill of Possibility
+		30 CR16 — Willow's Lighter
+		30 CR17 — Bel Canto of Courage
+		30 CR18 — Scraping By
+		30 CG01 — Lunch Break
+		30 CG02 — Explore
+		30 CG03 — Savannah Rabbit
+		30 CG04 — Treeguard
+		30 CG14 — Grow a Beard
+		30 CG07 — Lureplant
+		30 CG08 — Koalefant
+		30 CG09 — Mush Gnome
+		30 CG10 — Fruit Fly Swarm
+		30 CG11 — Mandrake
+		30 CG12 — Grass Gator
+		30 CG13 — Briar Wolf
+		30 CG06 — Hungry Gobbler
+		30 CG15 — Trail Mix
+		30 CG17 — Show of Strength
+		30 CG18 — Full Bloom
+		30 CG19 — Fresh Resources
+		30 CB02 — Constant Spider
+		30 CR04 — Lavae
+		30 CR19 — Fight the Forge
+		30 CG05 — Grass Gekko
+		30 CG16 — Massive Might
+		30 CA01 — Worm Hole
+		30 CA02 — Crock Pot
+		30 CA03 — Ham Bat
+		30 CA04 — Meatballs
+		30 CA05 — Meaty Stew
+		30 CL01 — Temporary Outpost
+		[WildcardSlot(1)]
+	10 CW01 — Gestalt
+	10 CW02 — Wild Beefalo
+	10 CW03 — Hoarding Catcoon
+	10 CW04 — Moon Moth
+	10 CW05 — No-Eyed Deer
+	10 CW06 — Dust Moth
+	10 CW13 — Ghastly Downtime
+	10 CW08 — Bright-Eyed Frog
+	10 CW09 — Ancient Sentrypede
+	10 CW10 — Moonblind Crows
+	10 CW11 — Beefalo Calf
+	10 CW12 — Carrat
+	10 CW07 — Pipspooks
+	10 CW14 — Clear Minded Cadenza
+	10 CW15 — Allied Under Pressure
+	10 CW16 — Put to Sleep
+	10 CW17 — Well-Deserved Rest
+	10 CW18 — Lost on Lunar Island
+	10 CW19 — Enlighten
+	10 CU01 — Prototype Recipe
+	10 CU02 — Rockjaw
+	10 CU03 — Skittersquid
+	10 CU04 — Frog Rain
+	10 CU05 — Cookie Cutter
+	10 CU06 — Forbidden Knowledge
+	10 CU07 — Pengull
+	10 CU08 — Blue Hound
+	10 CU09 — Crab Guard
+	10 CU10 — Thieving Marotter
+	10 CU11 — Anenemies
+	10 CU12 — Sea Weed
+	10 CU13 — Gnarwail
+	10 CU14 — Moon Quay's Curse
+	10 CU15 — Kite
+	10 CU16 — Immediate Priorities
+	10 CU17 — Lost and Hungry
+	10 CU18 — Freezing Temperatures
+	10 CU19 — Pick Up the Pieces
+	10 CB01 — Crawling Horror
+	10 UB01 — Terrorbeak
+	10 CB03 — Tallbird
+	10 CB04 — Swamp Tentacles
+	10 CB05 — Cave Batilisk
+	10 CB06 — Marsh Mosquito
+	10 CB07 — Cave Spider
+	10 CB08 — Cemetery Ghost
+	10 CB09 — Mean Merm
+	10 CB10 — Loyal Merm Guard
+	10 CB11 — Cruel-Hearted Fun
+	10 CB12 — Meat Effigy
+	10 CB13 — United in Death
+	10 CB14 — Command in Shadow
+	10 CB16 — Manipulate Shadows
+	10 CB15 — Unethical Sources
+	10 CB17 — Grave Robbery
+	10 CB18 — Shadow Hands
+	10 CB19 — Inhabiting Darkness
+	10 CR01 — Killer Bee
+	10 CR02 — Vicious Varg
+	10 CR03 — Red Hound
+	10 UR01 — Splumonkey
+	10 CR05 — Desert Buzzard
+	10 CR06 — Moleworm
+	10 CR07 — Rock Lobster
+	10 CR08 — Enraged Mosling
+	10 CR09 — Moon Quay Raiders
+	10 CR10 — Spider Warrior
+	10 CR11 — Fireflies
+	10 CR12 — Burning Frenzy
+	10 CR13 — Enrage
+	10 CR14 — Overheat
+	10 CR15 — Thrill of Possibility
+	10 CR16 — Willow's Lighter
+	10 CR17 — Bel Canto of Courage
+	10 CR18 — Scraping By
+	10 UR04 — Focus on Fighting
+	10 CG01 — Lunch Break
+	10 CG02 — Explore
+	10 CG03 — Savannah Rabbit
+	10 CG04 — Treeguard
+	10 UG02 — Tallbird Egg
+	10 CG14 — Grow a Beard
+	10 CG07 — Lureplant
+	10 CG08 — Koalefant
+	10 CG09 — Mush Gnome
+	10 CG10 — Fruit Fly Swarm
+	10 CG11 — Mandrake
+	10 CG12 — Grass Gator
+	10 CG13 — Briar Wolf
+	10 CG06 — Hungry Gobbler
+	10 CG15 — Trail Mix
+	10 UG04 — Overrun
+	10 CG17 — Show of Strength
+	10 CG18 — Full Bloom
+	10 CG19 — Fresh Resources
+	10 UW01 — Greater Gestalt
+	10 UW02 — Charged Elding Spear
+	10 UW03 — Wes, Unfortunate Mime
+	10 UW04 — Wanda, Time Witch
+	10 UU01 — Science Machine
+	10 UU02 — Pearl, Crabby Hermit
+	10 UU03 — Wilson, Gentleman Scientist
+	10 UU04 — Bio Scanalyzer
+	10 CB02 — Constant Spider
+	10 UB02 — Nightmare Light
+	10 UB03 — Endure Horror
+	10 UB04 — Stuff of Nightmares
+	10 UB05 — Maxwell, Shadow King
+	10 CR04 — Lavae
+	10 UR02 — Saladmander
+	10 UR03 — Willow, the Firestarter
+	10 CR19 — Fight the Forge
+	10 UG01 — Wolfgang the Strongman
+	10 CG05 — Grass Gekko
+	10 UG03 — Peaceful Pig
+	10 CG16 — Massive Might
+	10 RW01 — The Ancient Guardian
+	10 RU01 — Crab King, Watery Grave
+	10 RB01 — The Shadow Pieces
+	10 RB02 — Nightfall
+	10 RR01 — Dragonfly, Magma Matron
+	10 RG01 — Bee Queen, Buzzing Hive
+	10 RG02 — Winter Stashing
+	10 UM01 — Winona, Handywoman
+	10 RM01 — Deerclops, Winter's Call
+	10 UM01 — Hound Wave
+	10 UM01 — Woodie, Cursed Lumberjack
+	10 UM01 — Warly, Camp Chef
+	10 UM01 — Wendy, the Bereaved
+	10 UM01 — Volt Goat
+	10 UM01 — Webber, the Indigestible
+	10 UM01 — Wigfrid, Battle Performer
+	10 UM01 — Wormwood, the Lonesome
+	10 RM01 — Wickerbottom, the Librarian
+	10 UM01 — Maxwell, Showmaster
+	10 RM01 — Battlemaster Pugnaz
+	10 RM01 — Bearger, Autumn Hunger
+	10 RM01 — Mumsy and Billy, Kind Goats
+	10 RM01 — Abigail, Persistent Kin
+	10 RM01 — Overcharged
+	10 RM01 — Campfire Story
+	10 RM01 — Antlion, Summer Rumbler
+	10 RM02 — Wurt, Friendly Merm
+	10 CA01 — Worm Hole
+	10 CA02 — Crock Pot
+	10 CA03 — Ham Bat
+	10 CA04 — Meatballs
+	10 CA05 — Meaty Stew
+	10 UA01 — Grim Galette
+	10 UA02 — Steamed Twigs
+	10 UA03 — Mandrake Soup
+	10 RL01 — The Florid Postern
+	10 UA05 — Volt Goat Chaud-Froid
+	10 CL01 — Temporary Outpost
+	10 UA04 — Monster Lasagna
+	10 UX02 — Wretched Gramophone
+	10 UX01 — Krampus
+	10 MX02 — Lunar Siphonator
+	10 MX03 — Klaus, Gift Hoarder
+	10 RM01 — Moose Goose, Spring Mother
+	10 MX01 — Reanimated Skeleton
+	10 RM02 — Chester, Mobile Storage
+	10 RL02 — The Atrium
+	10 UL01 — Lunar Island
+	10 UL02 — Lunar Grotto
+	10 UL03 — Oasis Desert
+	10 UL04 — Grassy Plains
+	10 UL05 — Deciduous Forest
+	10 UL06 — Pond Fields
+	10 UL09 — Mushtree Forest
+	10 UL07 — Ancient Ruins
+	10 UL10 — Moon Quay
+	10 UL08 — Monstrous Marsh
+	[LandSlot(1)]
+	10 UL01 — Lunar Island
+	10 UL02 — Lunar Grotto
+	10 UL03 — Oasis Desert
+	10 UL04 — Grassy Plains
+	10 UL05 — Deciduous Forest
+	10 UL06 — Pond Fields
+	10 UL09 — Mushtree Forest
+	10 UL07 — Ancient Ruins
+	10 UL10 — Moon Quay
+	10 UL08 — Monstrous Marsh
+	10 Swamp
+	10 Forest
+	10 Plains
+	10 Mountain
+	10 Island
+	
